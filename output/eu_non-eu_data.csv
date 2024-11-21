@@ -1,0 +1,1065 @@
+country_name,subject,measure,period_id,year,area,value,value_indexed
+United Kingdom (less PM),Exports of goods,CP,2018-Q1,2018,EU (less PM),42537,97.41613754644712
+United Kingdom (less PM),Exports of goods,CP,2018-Q2,2018,EU (less PM),43994,100.75288702114382
+United Kingdom (less PM),Exports of goods,CP,2018-Q3,2018,EU (less PM),44739,102.45904924396403
+United Kingdom (less PM),Exports of goods,CP,2018-Q4,2018,EU (less PM),43391,99.37192618844504
+United Kingdom (less PM),Exports of goods,CP,2019-Q1,2019,EU (less PM),46025,105.40418296013421
+United Kingdom (less PM),Exports of goods,CP,2019-Q2,2019,EU (less PM),41125,94.18244485031003
+United Kingdom (less PM),Exports of goods,CP,2019-Q3,2019,EU (less PM),43256,99.06275585276622
+United Kingdom (less PM),Exports of goods,CP,2019-Q4,2019,EU (less PM),41148,94.23511831490717
+United Kingdom (less PM),Exports of goods,CP,2020-Q1,2020,EU (less PM),38693,88.61279850682179
+United Kingdom (less PM),Exports of goods,CP,2020-Q2,2020,EU (less PM),30452,69.73966712660526
+United Kingdom (less PM),Exports of goods,CP,2020-Q3,2020,EU (less PM),36326,83.1920119545863
+United Kingdom (less PM),Exports of goods,CP,2020-Q4,2020,EU (less PM),41198,94.34962584664007
+United Kingdom (less PM),Exports of goods,CP,2021-Q1,2021,EU (less PM),32962,75.48794521959682
+United Kingdom (less PM),Exports of goods,CP,2021-Q2,2021,EU (less PM),39970,91.53732086728004
+United Kingdom (less PM),Exports of goods,CP,2021-Q3,2021,EU (less PM),39321,90.05101310538701
+United Kingdom (less PM),Exports of goods,CP,2021-Q4,2021,EU (less PM),45325,103.8010775158736
+United Kingdom (less PM),Exports of goods,CP,2022-Q1,2022,EU (less PM),46602,106.72559987633186
+United Kingdom (less PM),Exports of goods,CP,2022-Q2,2022,EU (less PM),52238,119.63288885326433
+United Kingdom (less PM),Exports of goods,CP,2022-Q3,2022,EU (less PM),55066,126.10943484807713
+United Kingdom (less PM),Exports of goods,CP,2022-Q4,2022,EU (less PM),52278,119.72449487865065
+United Kingdom (less PM),Exports of goods,CP,2023-Q1,2023,EU (less PM),47583,108.97223764893135
+United Kingdom (less PM),Exports of goods,CP,2023-Q2,2023,EU (less PM),45979,105.29883603093992
+United Kingdom (less PM),Exports of goods,CP,2023-Q3,2023,EU (less PM),46057,105.47746778044326
+United Kingdom (less PM),Exports of goods,CP,2023-Q4,2023,EU (less PM),45428,104.03696303124339
+United Kingdom (less PM),Exports of goods,CP,2024-Q1,2024,EU (less PM),43911,100.5628045184672
+United Kingdom (less PM),Exports of goods,CP,2024-Q2,2024,EU (less PM),44506,101.92544414608871
+United Kingdom (less PM),Exports of goods,CP,2024-Q3,2024,EU (less PM),42848,98.12837439382575
+United Kingdom (less PM),Imports of goods,CP,2018-Q1,2018,EU (less PM),66845,99.91928130465328
+United Kingdom (less PM),Imports of goods,CP,2018-Q2,2018,EU (less PM),67406,100.7578588618664
+United Kingdom (less PM),Imports of goods,CP,2018-Q3,2018,EU (less PM),65637,98.11357419393414
+United Kingdom (less PM),Imports of goods,CP,2018-Q4,2018,EU (less PM),67708,101.20928563954618
+United Kingdom (less PM),Imports of goods,CP,2019-Q1,2019,EU (less PM),72846,108.8895200227208
+United Kingdom (less PM),Imports of goods,CP,2019-Q2,2019,EU (less PM),64577,96.52909610009118
+United Kingdom (less PM),Imports of goods,CP,2019-Q3,2019,EU (less PM),67500,100.89836918339587
+United Kingdom (less PM),Imports of goods,CP,2019-Q4,2019,EU (less PM),64975,97.12402278060958
+United Kingdom (less PM),Imports of goods,CP,2020-Q1,2020,EU (less PM),59459,88.87875753000792
+United Kingdom (less PM),Imports of goods,CP,2020-Q2,2020,EU (less PM),45339,67.77231348749608
+United Kingdom (less PM),Imports of goods,CP,2020-Q3,2020,EU (less PM),58496,87.43927412965814
+United Kingdom (less PM),Imports of goods,CP,2020-Q4,2020,EU (less PM),69537,103.94325774675256
+United Kingdom (less PM),Imports of goods,CP,2021-Q1,2021,EU (less PM),55342,82.72470440514806
+United Kingdom (less PM),Imports of goods,CP,2021-Q2,2021,EU (less PM),59058,88.27934647752582
+United Kingdom (less PM),Imports of goods,CP,2021-Q3,2021,EU (less PM),61062,91.27490694928176
+United Kingdom (less PM),Imports of goods,CP,2021-Q4,2021,EU (less PM),61568,92.03127102049358
+United Kingdom (less PM),Imports of goods,CP,2022-Q1,2022,EU (less PM),70939,106.03895424445807
+United Kingdom (less PM),Imports of goods,CP,2022-Q2,2022,EU (less PM),78020,116.62356686945994
+United Kingdom (less PM),Imports of goods,CP,2022-Q3,2022,EU (less PM),75913,113.47404296028341
+United Kingdom (less PM),Imports of goods,CP,2022-Q4,2022,EU (less PM),81114,121.24844915469588
+United Kingdom (less PM),Imports of goods,CP,2023-Q1,2023,EU (less PM),79921,119.46516390379527
+United Kingdom (less PM),Imports of goods,CP,2023-Q2,2023,EU (less PM),81036,121.13185548363951
+United Kingdom (less PM),Imports of goods,CP,2023-Q3,2023,EU (less PM),78023,116.62805124142363
+United Kingdom (less PM),Imports of goods,CP,2023-Q4,2023,EU (less PM),79284,118.51298225683493
+United Kingdom (less PM),Imports of goods,CP,2024-Q1,2024,EU (less PM),76470,114.30664135487825
+United Kingdom (less PM),Imports of goods,CP,2024-Q2,2024,EU (less PM),78770,117.74465986038656
+United Kingdom (less PM),Imports of goods,CP,2024-Q3,2024,EU (less PM),76298,114.04953736229243
+United Kingdom (less PM),Exports of goods,CP,2018-Q1,2018,Non-EU (less PM),43078,96.97392635447326
+United Kingdom (less PM),Exports of goods,CP,2018-Q2,2018,Non-EU (less PM),44306,99.73830681696673
+United Kingdom (less PM),Exports of goods,CP,2018-Q3,2018,Non-EU (less PM),46216,104.03795395325541
+United Kingdom (less PM),Exports of goods,CP,2018-Q4,2018,Non-EU (less PM),44089,99.24981287530461
+United Kingdom (less PM),Exports of goods,CP,2019-Q1,2019,Non-EU (less PM),44280,99.67977758893348
+United Kingdom (less PM),Exports of goods,CP,2019-Q2,2019,Non-EU (less PM),42973,96.73755831818515
+United Kingdom (less PM),Exports of goods,CP,2019-Q3,2019,Non-EU (less PM),48489,109.15475915785447
+United Kingdom (less PM),Exports of goods,CP,2019-Q4,2019,Non-EU (less PM),46416,104.48817878428041
+United Kingdom (less PM),Exports of goods,CP,2020-Q1,2020,Non-EU (less PM),43380,97.653765849321
+United Kingdom (less PM),Exports of goods,CP,2020-Q2,2020,Non-EU (less PM),33560,75.54772664599383
+United Kingdom (less PM),Exports of goods,CP,2020-Q3,2020,Non-EU (less PM),38788,87.31660372898716
+United Kingdom (less PM),Exports of goods,CP,2020-Q4,2020,Non-EU (less PM),40686,91.58923737541434
+United Kingdom (less PM),Exports of goods,CP,2021-Q1,2021,Non-EU (less PM),41715,93.90564413103793
+United Kingdom (less PM),Exports of goods,CP,2021-Q2,2021,Non-EU (less PM),43050,96.91089487812977
+United Kingdom (less PM),Exports of goods,CP,2021-Q3,2021,Non-EU (less PM),40005,90.05622182577424
+United Kingdom (less PM),Exports of goods,CP,2021-Q4,2021,Non-EU (less PM),43853,98.71854757469511
+United Kingdom (less PM),Exports of goods,CP,2022-Q1,2022,Non-EU (less PM),45270,101.90839050250719
+United Kingdom (less PM),Exports of goods,CP,2022-Q2,2022,Non-EU (less PM),48468,109.10748555059683
+United Kingdom (less PM),Exports of goods,CP,2022-Q3,2022,Non-EU (less PM),51210,115.28006798394948
+United Kingdom (less PM),Exports of goods,CP,2022-Q4,2022,Non-EU (less PM),50689,114.10723229912938
+United Kingdom (less PM),Exports of goods,CP,2023-Q1,2023,Non-EU (less PM),48155,108.40288369004271
+United Kingdom (less PM),Exports of goods,CP,2023-Q2,2023,Non-EU (less PM),49202,110.75981068045854
+United Kingdom (less PM),Exports of goods,CP,2023-Q3,2023,Non-EU (less PM),46984,105.76681730439137
+United Kingdom (less PM),Exports of goods,CP,2023-Q4,2023,Non-EU (less PM),46351,104.34185571419728
+United Kingdom (less PM),Exports of goods,CP,2024-Q1,2024,Non-EU (less PM),46867,105.50343577824175
+United Kingdom (less PM),Exports of goods,CP,2024-Q2,2024,Non-EU (less PM),47048,105.91088925031937
+United Kingdom (less PM),Exports of goods,CP,2024-Q3,2024,Non-EU (less PM),46382,104.41164056300616
+United Kingdom (less PM),Imports of goods,CP,2018-Q1,2018,Non-EU (less PM),52885,94.66825386880521
+United Kingdom (less PM),Imports of goods,CP,2018-Q2,2018,Non-EU (less PM),53690,96.1092663366957
+United Kingdom (less PM),Imports of goods,CP,2018-Q3,2018,Non-EU (less PM),58360,104.46892872806035
+United Kingdom (less PM),Imports of goods,CP,2018-Q4,2018,Non-EU (less PM),58519,104.75355106643873
+United Kingdom (less PM),Imports of goods,CP,2019-Q1,2019,Non-EU (less PM),59008,105.6288990127722
+United Kingdom (less PM),Imports of goods,CP,2019-Q2,2019,Non-EU (less PM),56418,100.99259802912457
+United Kingdom (less PM),Imports of goods,CP,2019-Q3,2019,Non-EU (less PM),57504,102.93662230257681
+United Kingdom (less PM),Imports of goods,CP,2019-Q4,2019,Non-EU (less PM),54713,97.94051572135652
+United Kingdom (less PM),Imports of goods,CP,2020-Q1,2020,Non-EU (less PM),52715,94.36394067682834
+United Kingdom (less PM),Imports of goods,CP,2020-Q2,2020,Non-EU (less PM),41755,74.7446901823194
+United Kingdom (less PM),Imports of goods,CP,2020-Q3,2020,Non-EU (less PM),50329,90.09281552355294
+United Kingdom (less PM),Imports of goods,CP,2020-Q4,2020,Non-EU (less PM),55024,98.49722985491421
+United Kingdom (less PM),Imports of goods,CP,2021-Q1,2021,Non-EU (less PM),54012,96.68567132385189
+United Kingdom (less PM),Imports of goods,CP,2021-Q2,2021,Non-EU (less PM),60511,108.31938564536772
+United Kingdom (less PM),Imports of goods,CP,2021-Q3,2021,Non-EU (less PM),63306,113.32265253698748
+United Kingdom (less PM),Imports of goods,CP,2021-Q4,2021,Non-EU (less PM),68642,122.87450660986154
+United Kingdom (less PM),Imports of goods,CP,2022-Q1,2022,Non-EU (less PM),77619,138.94403322384025
+United Kingdom (less PM),Imports of goods,CP,2022-Q2,2022,Non-EU (less PM),81450,145.80182050891906
+United Kingdom (less PM),Imports of goods,CP,2022-Q3,2022,Non-EU (less PM),89943,161.00494956456362
+United Kingdom (less PM),Imports of goods,CP,2022-Q4,2022,Non-EU (less PM),76730,137.3526542375612
+United Kingdom (less PM),Imports of goods,CP,2023-Q1,2023,Non-EU (less PM),72129,129.11650720058714
+United Kingdom (less PM),Imports of goods,CP,2023-Q2,2023,Non-EU (less PM),67201,120.29500478845759
+United Kingdom (less PM),Imports of goods,CP,2023-Q3,2023,Non-EU (less PM),61295,109.72280648366106
+United Kingdom (less PM),Imports of goods,CP,2023-Q4,2023,Non-EU (less PM),62174,111.29628469394149
+United Kingdom (less PM),Imports of goods,CP,2024-Q1,2024,Non-EU (less PM),59936,107.29009102544596
+United Kingdom (less PM),Imports of goods,CP,2024-Q2,2024,Non-EU (less PM),65786,117.76204498465009
+United Kingdom (less PM),Imports of goods,CP,2024-Q3,2024,Non-EU (less PM),63991,114.54885569289428
+United Kingdom (less PM),Imports of goods,CVM,2018-Q1,2018,EU (less PM),77518,100.9440964671259
+United Kingdom (less PM),Imports of goods,CVM,2018-Q2,2018,EU (less PM),77621,101.07822327555897
+United Kingdom (less PM),Imports of goods,CVM,2018-Q3,2018,EU (less PM),74767,97.36173870014194
+United Kingdom (less PM),Imports of goods,CVM,2018-Q4,2018,EU (less PM),77266,100.61594155717317
+United Kingdom (less PM),Imports of goods,CVM,2019-Q1,2019,EU (less PM),84022,109.41361842876304
+United Kingdom (less PM),Imports of goods,CVM,2019-Q2,2019,EU (less PM),74072,96.45670829372469
+United Kingdom (less PM),Imports of goods,CVM,2019-Q3,2019,EU (less PM),76200,99.22779419999219
+United Kingdom (less PM),Imports of goods,CVM,2019-Q4,2019,EU (less PM),74770,97.36564530621281
+United Kingdom (less PM),Imports of goods,CVM,2020-Q1,2020,EU (less PM),68943,89.77771411456773
+United Kingdom (less PM),Imports of goods,CVM,2020-Q2,2020,EU (less PM),52865,68.8409099787741
+United Kingdom (less PM),Imports of goods,CVM,2020-Q3,2020,EU (less PM),67352,87.70591069498522
+United Kingdom (less PM),Imports of goods,CVM,2020-Q4,2020,EU (less PM),79078,102.97553162397615
+United Kingdom (less PM),Imports of goods,CVM,2021-Q1,2021,EU (less PM),64324,83.76284296745797
+United Kingdom (less PM),Imports of goods,CVM,2021-Q2,2021,EU (less PM),67733,88.20204966598519
+United Kingdom (less PM),Imports of goods,CVM,2021-Q3,2021,EU (less PM),69121,90.00950607477243
+United Kingdom (less PM),Imports of goods,CVM,2021-Q4,2021,EU (less PM),68125,88.71251285924498
+United Kingdom (less PM),Imports of goods,CVM,2022-Q1,2022,EU (less PM),75820,98.73295743101585
+United Kingdom (less PM),Imports of goods,CVM,2022-Q2,2022,EU (less PM),78228,101.86865990389748
+United Kingdom (less PM),Imports of goods,CVM,2022-Q3,2022,EU (less PM),74411,96.89815477973252
+United Kingdom (less PM),Imports of goods,CVM,2022-Q4,2022,EU (less PM),77527,100.95581628533851
+United Kingdom (less PM),Imports of goods,CVM,2023-Q1,2023,EU (less PM),74611,97.15859518445691
+United Kingdom (less PM),Imports of goods,CVM,2023-Q2,2023,EU (less PM),76606,99.7564882215827
+United Kingdom (less PM),Imports of goods,CVM,2023-Q3,2023,EU (less PM),74676,97.24323831599234
+United Kingdom (less PM),Imports of goods,CVM,2023-Q4,2023,EU (less PM),75087,97.77844334770096
+United Kingdom (less PM),Imports of goods,CVM,2024-Q1,2024,EU (less PM),73058,95.13627544177203
+United Kingdom (less PM),Imports of goods,CVM,2024-Q2,2024,EU (less PM),75309,98.06753219694502
+United Kingdom (less PM),Imports of goods,CVM,2024-Q3,2024,EU (less PM),73520,95.73789277668537
+United Kingdom (less PM),Exports of goods,CVM,2018-Q1,2018,EU (less PM),54597,98.93673409291685
+United Kingdom (less PM),Exports of goods,CVM,2018-Q2,2018,EU (less PM),55922,101.33780324823884
+United Kingdom (less PM),Exports of goods,CVM,2018-Q3,2018,EU (less PM),55786,101.09135388588126
+United Kingdom (less PM),Exports of goods,CVM,2018-Q4,2018,EU (less PM),54430,98.63410877296306
+United Kingdom (less PM),Exports of goods,CVM,2019-Q1,2019,EU (less PM),58431,105.88443155820329
+United Kingdom (less PM),Exports of goods,CVM,2019-Q2,2019,EU (less PM),51521,93.36262939724104
+United Kingdom (less PM),Exports of goods,CVM,2019-Q3,2019,EU (less PM),53906,97.68455387682063
+United Kingdom (less PM),Exports of goods,CVM,2019-Q4,2019,EU (less PM),52339,94.8449498267153
+United Kingdom (less PM),Exports of goods,CVM,2020-Q1,2020,EU (less PM),49609,89.89784130291979
+United Kingdom (less PM),Exports of goods,CVM,2020-Q2,2020,EU (less PM),42314,76.67836999116588
+United Kingdom (less PM),Exports of goods,CVM,2020-Q3,2020,EU (less PM),47339,85.78431150474552
+United Kingdom (less PM),Exports of goods,CVM,2020-Q4,2020,EU (less PM),52795,95.67128004167894
+United Kingdom (less PM),Exports of goods,CVM,2021-Q1,2021,EU (less PM),41714,75.5910933925295
+United Kingdom (less PM),Exports of goods,CVM,2021-Q2,2021,EU (less PM),49900,90.42517045325843
+United Kingdom (less PM),Exports of goods,CVM,2021-Q3,2021,EU (less PM),47996,86.97487938025233
+United Kingdom (less PM),Exports of goods,CVM,2021-Q4,2021,EU (less PM),50901,92.23911024531678
+United Kingdom (less PM),Exports of goods,CVM,2022-Q1,2022,EU (less PM),48902,88.61666704419326
+United Kingdom (less PM),Exports of goods,CVM,2022-Q2,2022,EU (less PM),52640,95.39040025369788
+United Kingdom (less PM),Exports of goods,CVM,2022-Q3,2022,EU (less PM),53313,96.60996217183501
+United Kingdom (less PM),Exports of goods,CVM,2022-Q4,2022,EU (less PM),51329,93.0147008856774
+United Kingdom (less PM),Exports of goods,CVM,2023-Q1,2023,EU (less PM),47468,86.01807597345234
+United Kingdom (less PM),Exports of goods,CVM,2023-Q2,2023,EU (less PM),47180,85.49618320610686
+United Kingdom (less PM),Exports of goods,CVM,2023-Q3,2023,EU (less PM),47428,85.94559086687657
+United Kingdom (less PM),Exports of goods,CVM,2023-Q4,2023,EU (less PM),44941,81.4388293655288
+United Kingdom (less PM),Exports of goods,CVM,2024-Q1,2024,EU (less PM),44479,80.6016263845788
+United Kingdom (less PM),Exports of goods,CVM,2024-Q2,2024,EU (less PM),44664,80.93687000249167
+United Kingdom (less PM),Exports of goods,CVM,2024-Q3,2024,EU (less PM),44565,80.75746936371667
+United Kingdom (less PM),Imports of goods,CVM,2018-Q1,2018,Non-EU (less PM),72486,98.02890044425811
+United Kingdom (less PM),Imports of goods,CVM,2018-Q2,2018,Non-EU (less PM),71115,96.17478209714173
+United Kingdom (less PM),Imports of goods,CVM,2018-Q3,2018,Non-EU (less PM),76119,102.94211120652932
+United Kingdom (less PM),Imports of goods,CVM,2018-Q4,2018,Non-EU (less PM),76054,102.85420625207084
+United Kingdom (less PM),Imports of goods,CVM,2019-Q1,2019,Non-EU (less PM),77843,105.27362107555093
+United Kingdom (less PM),Imports of goods,CVM,2019-Q2,2019,Non-EU (less PM),73441,99.32042708284028
+United Kingdom (less PM),Imports of goods,CVM,2019-Q3,2019,Non-EU (less PM),74223,100.37799130417142
+United Kingdom (less PM),Imports of goods,CVM,2019-Q4,2019,Non-EU (less PM),71924,97.26886068417102
+United Kingdom (less PM),Imports of goods,CVM,2020-Q1,2020,Non-EU (less PM),70650,95.54592357678497
+United Kingdom (less PM),Imports of goods,CVM,2020-Q2,2020,Non-EU (less PM),58515,79.1347447713457
+United Kingdom (less PM),Imports of goods,CVM,2020-Q3,2020,Non-EU (less PM),68807,93.05348002190861
+United Kingdom (less PM),Imports of goods,CVM,2020-Q4,2020,Non-EU (less PM),75263,101.78447057550697
+United Kingdom (less PM),Imports of goods,CVM,2021-Q1,2021,Non-EU (less PM),73114,98.87819754271842
+United Kingdom (less PM),Imports of goods,CVM,2021-Q2,2021,Non-EU (less PM),79540,107.56861657887443
+United Kingdom (less PM),Imports of goods,CVM,2021-Q3,2021,Non-EU (less PM),79181,107.0831107534807
+United Kingdom (less PM),Imports of goods,CVM,2021-Q4,2021,Non-EU (less PM),80074,108.29078958934863
+United Kingdom (less PM),Imports of goods,CVM,2022-Q1,2022,Non-EU (less PM),85013,114.97021374427771
+United Kingdom (less PM),Imports of goods,CVM,2022-Q2,2022,Non-EU (less PM),83130,112.42367483281154
+United Kingdom (less PM),Imports of goods,CVM,2022-Q3,2022,Non-EU (less PM),80312,108.61265696105811
+United Kingdom (less PM),Imports of goods,CVM,2022-Q4,2022,Non-EU (less PM),77287,104.52169561895231
+United Kingdom (less PM),Imports of goods,CVM,2023-Q1,2023,Non-EU (less PM),74706,101.03119273499361
+United Kingdom (less PM),Imports of goods,CVM,2023-Q2,2023,Non-EU (less PM),72641,98.2385199510437
+United Kingdom (less PM),Imports of goods,CVM,2023-Q3,2023,Non-EU (less PM),68108,92.10816366550137
+United Kingdom (less PM),Imports of goods,CVM,2023-Q4,2023,Non-EU (less PM),68139,92.15008756685849
+United Kingdom (less PM),Imports of goods,CVM,2024-Q1,2024,Non-EU (less PM),66648,90.13368314997261
+United Kingdom (less PM),Imports of goods,CVM,2024-Q2,2024,Non-EU (less PM),71352,96.49529708493647
+United Kingdom (less PM),Imports of goods,CVM,2024-Q3,2024,Non-EU (less PM),75225,101.73307998674663
+United Kingdom (less PM),Exports of goods,CVM,2018-Q1,2018,Non-EU (less PM),53378,100.98997724897005
+United Kingdom (less PM),Exports of goods,CVM,2018-Q2,2018,Non-EU (less PM),52668,99.64667319398919
+United Kingdom (less PM),Exports of goods,CVM,2018-Q3,2018,Non-EU (less PM),53989,102.1459755272705
+United Kingdom (less PM),Exports of goods,CVM,2018-Q4,2018,Non-EU (less PM),51384,97.21737402977027
+United Kingdom (less PM),Exports of goods,CVM,2019-Q1,2019,Non-EU (less PM),51541,97.51441450389984
+United Kingdom (less PM),Exports of goods,CVM,2019-Q2,2019,Non-EU (less PM),49068,92.83555404197352
+United Kingdom (less PM),Exports of goods,CVM,2019-Q3,2019,Non-EU (less PM),55194,104.4258084656535
+United Kingdom (less PM),Exports of goods,CVM,2019-Q4,2019,Non-EU (less PM),53636,101.47810745486451
+United Kingdom (less PM),Exports of goods,CVM,2020-Q1,2020,Non-EU (less PM),49791,94.20345380500333
+United Kingdom (less PM),Exports of goods,CVM,2020-Q2,2020,Non-EU (less PM),40037,75.74910485812534
+United Kingdom (less PM),Exports of goods,CVM,2020-Q3,2020,Non-EU (less PM),45067,85.265751895525
+United Kingdom (less PM),Exports of goods,CVM,2020-Q4,2020,Non-EU (less PM),47927,90.676807666293
+United Kingdom (less PM),Exports of goods,CVM,2021-Q1,2021,Non-EU (less PM),48740,92.21498540812321
+United Kingdom (less PM),Exports of goods,CVM,2021-Q2,2021,Non-EU (less PM),50392,95.3405323078815
+United Kingdom (less PM),Exports of goods,CVM,2021-Q3,2021,Non-EU (less PM),46188,87.38665872036098
+United Kingdom (less PM),Exports of goods,CVM,2021-Q4,2021,Non-EU (less PM),48176,91.14791007430742
+United Kingdom (less PM),Exports of goods,CVM,2022-Q1,2022,Non-EU (less PM),47848,90.52734144045709
+United Kingdom (less PM),Exports of goods,CVM,2022-Q2,2022,Non-EU (less PM),48743,92.22066134074988
+United Kingdom (less PM),Exports of goods,CVM,2022-Q3,2022,Non-EU (less PM),50017,94.63104072954654
+United Kingdom (less PM),Exports of goods,CVM,2022-Q4,2022,Non-EU (less PM),49029,92.76176691782668
+United Kingdom (less PM),Exports of goods,CVM,2023-Q1,2023,Non-EU (less PM),46483,87.94479209531782
+United Kingdom (less PM),Exports of goods,CVM,2023-Q2,2023,Non-EU (less PM),48002,90.81870598196
+United Kingdom (less PM),Exports of goods,CVM,2023-Q3,2023,Non-EU (less PM),46463,87.9069525444733
+United Kingdom (less PM),Exports of goods,CVM,2023-Q4,2023,Non-EU (less PM),45652,86.37255875772755
+United Kingdom (less PM),Exports of goods,CVM,2024-Q1,2024,Non-EU (less PM),45400,85.89578041708646
+United Kingdom (less PM),Exports of goods,CVM,2024-Q2,2024,Non-EU (less PM),45684,86.43310203907879
+United Kingdom (less PM),Exports of goods,CVM,2024-Q3,2024,Non-EU (less PM),45768,86.59202815262583
+United Kingdom,Exports of goods,CP,2018-Q1,2018,Non-EU,43202,96.42335033311386
+United Kingdom,Exports of goods,CP,2018-Q2,2018,Non-EU,44835,100.06807351940094
+United Kingdom,Exports of goods,CP,2018-Q3,2018,Non-EU,46455,103.68378176299255
+United Kingdom,Exports of goods,CP,2018-Q4,2018,Non-EU,44726,99.82479438449263
+United Kingdom,Exports of goods,CP,2019-Q1,2019,Non-EU,44280,98.82935865817049
+United Kingdom,Exports of goods,CP,2019-Q2,2019,Non-EU,44267,98.80034371547501
+United Kingdom,Exports of goods,CP,2019-Q3,2019,Non-EU,49541,110.57148277516767
+United Kingdom,Exports of goods,CP,2019-Q4,2019,Non-EU,57939,129.31513575645303
+United Kingdom,Exports of goods,CP,2020-Q1,2020,Non-EU,44814,100.02120322735439
+United Kingdom,Exports of goods,CP,2020-Q2,2020,Non-EU,41294,92.16484951288375
+United Kingdom,Exports of goods,CP,2020-Q3,2020,Non-EU,38799,86.59621243401891
+United Kingdom,Exports of goods,CP,2020-Q4,2020,Non-EU,40686,90.80784296220246
+United Kingdom,Exports of goods,CP,2021-Q1,2021,Non-EU,41715,93.1044872724838
+United Kingdom,Exports of goods,CP,2021-Q2,2021,Non-EU,44418,99.13736343447644
+United Kingdom,Exports of goods,CP,2021-Q3,2021,Non-EU,40005,89.28790634869266
+United Kingdom,Exports of goods,CP,2021-Q4,2021,Non-EU,47645,106.33976497896415
+United Kingdom,Exports of goods,CP,2022-Q1,2022,Non-EU,45271,101.04119005903425
+United Kingdom,Exports of goods,CP,2022-Q2,2022,Non-EU,48469,108.17886596212433
+United Kingdom,Exports of goods,CP,2022-Q3,2022,Non-EU,64528,144.02124786572776
+United Kingdom,Exports of goods,CP,2022-Q4,2022,Non-EU,68803,153.5627001752056
+United Kingdom,Exports of goods,CP,2023-Q1,2023,Non-EU,54169,120.90080237476147
+United Kingdom,Exports of goods,CP,2023-Q2,2023,Non-EU,53195,118.72691359126873
+United Kingdom,Exports of goods,CP,2023-Q3,2023,Non-EU,48943,109.23679541117521
+United Kingdom,Exports of goods,CP,2023-Q4,2023,Non-EU,50846,113.48413663806092
+United Kingdom,Exports of goods,CP,2024-Q1,2024,Non-EU,49999,111.59370152551642
+United Kingdom,Exports of goods,CP,2024-Q2,2024,Non-EU,47053,105.018469126985
+United Kingdom,Exports of goods,CP,2024-Q3,2024,Non-EU,47108,105.14122465377362
+United Kingdom,Imports of goods,CP,2018-Q1,2018,Non-EU,53533,94.1649333116389
+United Kingdom,Imports of goods,CP,2018-Q2,2018,Non-EU,55272,97.22384686083174
+United Kingdom,Imports of goods,CP,2018-Q3,2018,Non-EU,59370,104.43225843334022
+United Kingdom,Imports of goods,CP,2018-Q4,2018,Non-EU,59226,104.17896139418912
+United Kingdom,Imports of goods,CP,2019-Q1,2019,Non-EU,69778,122.74000554087272
+United Kingdom,Imports of goods,CP,2019-Q2,2019,Non-EU,58859,103.53340574579708
+United Kingdom,Imports of goods,CP,2019-Q3,2019,Non-EU,59734,105.07253706008328
+United Kingdom,Imports of goods,CP,2019-Q4,2019,Non-EU,54713,96.2405618269049
+United Kingdom,Imports of goods,CP,2020-Q1,2020,Non-EU,54643,96.117431321762
+United Kingdom,Imports of goods,CP,2020-Q2,2020,Non-EU,41755,73.44734631773827
+United Kingdom,Imports of goods,CP,2020-Q3,2020,Non-EU,50853,89.45079397188226
+United Kingdom,Imports of goods,CP,2020-Q4,2020,Non-EU,61412,108.02415116908017
+United Kingdom,Imports of goods,CP,2021-Q1,2021,Non-EU,61292,107.81307030312092
+United Kingdom,Imports of goods,CP,2021-Q2,2021,Non-EU,60810,106.96522882485124
+United Kingdom,Imports of goods,CP,2021-Q3,2021,Non-EU,65821,115.77961398586638
+United Kingdom,Imports of goods,CP,2021-Q4,2021,Non-EU,68994,121.36094388327227
+United Kingdom,Imports of goods,CP,2022-Q1,2022,Non-EU,84358,148.38633075492191
+United Kingdom,Imports of goods,CP,2022-Q2,2022,Non-EU,82970,145.9448287386599
+United Kingdom,Imports of goods,CP,2022-Q3,2022,Non-EU,89949,158.22094010140677
+United Kingdom,Imports of goods,CP,2022-Q4,2022,Non-EU,76736,134.97917775207674
+United Kingdom,Imports of goods,CP,2023-Q1,2023,Non-EU,72151,126.91412966521696
+United Kingdom,Imports of goods,CP,2023-Q2,2023,Non-EU,67208,118.21935699491206
+United Kingdom,Imports of goods,CP,2023-Q3,2023,Non-EU,61297,107.82186533920255
+United Kingdom,Imports of goods,CP,2023-Q4,2023,Non-EU,62175,109.36627367513776
+United Kingdom,Imports of goods,CP,2024-Q1,2024,Non-EU,60204,105.89927045175702
+United Kingdom,Imports of goods,CP,2024-Q2,2024,Non-EU,70746,124.44272452627736
+United Kingdom,Imports of goods,CP,2024-Q3,2024,Non-EU,63991,112.56063077998778
+United Kingdom,Exports of goods,CP,2018-Q1,2018,EU,42539,97.35104642248234
+United Kingdom,Exports of goods,CP,2018-Q2,2018,EU,44013,100.72431430434932
+United Kingdom,Exports of goods,CP,2018-Q3,2018,EU,44741,102.39035162999326
+United Kingdom,Exports of goods,CP,2018-Q4,2018,EU,43493,99.53428764317508
+United Kingdom,Exports of goods,CP,2019-Q1,2019,EU,46025,105.32880207796964
+United Kingdom,Exports of goods,CP,2019-Q2,2019,EU,41150,94.17230212946117
+United Kingdom,Exports of goods,CP,2019-Q3,2019,EU,43436,99.40384241300791
+United Kingdom,Exports of goods,CP,2019-Q4,2019,EU,41565,95.1220349455906
+United Kingdom,Exports of goods,CP,2020-Q1,2020,EU,38939,89.11240030666072
+United Kingdom,Exports of goods,CP,2020-Q2,2020,EU,31690,72.52297094732988
+United Kingdom,Exports of goods,CP,2020-Q3,2020,EU,36330,83.14167038549999
+United Kingdom,Exports of goods,CP,2020-Q4,2020,EU,41198,94.2821507443388
+United Kingdom,Exports of goods,CP,2021-Q1,2021,EU,32962,75.43395924158686
+United Kingdom,Exports of goods,CP,2021-Q2,2021,EU,40411,92.48109116290777
+United Kingdom,Exports of goods,CP,2021-Q3,2021,EU,39321,89.98661220006178
+United Kingdom,Exports of goods,CP,2021-Q4,2021,EU,45658,104.4889178767178
+United Kingdom,Exports of goods,CP,2022-Q1,2022,EU,46603,106.651562482121
+United Kingdom,Exports of goods,CP,2022-Q2,2022,EU,52241,119.55419770462166
+United Kingdom,Exports of goods,CP,2022-Q3,2022,EU,55432,126.85684208117355
+United Kingdom,Exports of goods,CP,2022-Q4,2022,EU,52776,120.77855205794515
+United Kingdom,Exports of goods,CP,2023-Q1,2023,EU,47846,109.49618390488939
+United Kingdom,Exports of goods,CP,2023-Q2,2023,EU,46219,105.77277356310002
+United Kingdom,Exports of goods,CP,2023-Q3,2023,EU,46095,105.48899797466615
+United Kingdom,Exports of goods,CP,2023-Q4,2023,EU,46203,105.73615735814082
+United Kingdom,Exports of goods,CP,2024-Q1,2024,EU,43951,100.58242651013238
+United Kingdom,Exports of goods,CP,2024-Q2,2024,EU,44508,101.85712814527479
+United Kingdom,Exports of goods,CP,2024-Q3,2024,EU,42967,98.33052990514113
+United Kingdom,Imports of goods,CP,2018-Q1,2018,EU,66845,99.80850563471236
+United Kingdom,Imports of goods,CP,2018-Q2,2018,EU,67563,100.8805754536326
+United Kingdom,Imports of goods,CP,2018-Q3,2018,EU,65738,98.15560690275595
+United Kingdom,Imports of goods,CP,2018-Q4,2018,EU,67747,101.15531200889907
+United Kingdom,Imports of goods,CP,2019-Q1,2019,EU,72924,108.88526389267356
+United Kingdom,Imports of goods,CP,2019-Q2,2019,EU,64630,96.501215037347
+United Kingdom,Imports of goods,CP,2019-Q3,2019,EU,67587,100.91641065649345
+United Kingdom,Imports of goods,CP,2019-Q4,2019,EU,64975,97.01634607847163
+United Kingdom,Imports of goods,CP,2020-Q1,2020,EU,59459,88.78022195428773
+United Kingdom,Imports of goods,CP,2020-Q2,2020,EU,45339,67.69717760449134
+United Kingdom,Imports of goods,CP,2020-Q3,2020,EU,58505,87.35577264056919
+United Kingdom,Imports of goods,CP,2020-Q4,2020,EU,69789,104.20429051897587
+United Kingdom,Imports of goods,CP,2021-Q1,2021,EU,55568,82.97043969047343
+United Kingdom,Imports of goods,CP,2021-Q2,2021,EU,59062,88.18744797363127
+United Kingdom,Imports of goods,CP,2021-Q3,2021,EU,61196,91.37379476134129
+United Kingdom,Imports of goods,CP,2021-Q4,2021,EU,61597,91.97254127580787
+United Kingdom,Imports of goods,CP,2022-Q1,2022,EU,71376,106.57389330814915
+United Kingdom,Imports of goods,CP,2022-Q2,2022,EU,78205,116.77050165551171
+United Kingdom,Imports of goods,CP,2022-Q3,2022,EU,75938,113.38556811861453
+United Kingdom,Imports of goods,CP,2022-Q4,2022,EU,81127,121.13343760381943
+United Kingdom,Imports of goods,CP,2023-Q1,2023,EU,79946,119.37004699637541
+United Kingdom,Imports of goods,CP,2023-Q2,2023,EU,81054,121.02443886178438
+United Kingdom,Imports of goods,CP,2023-Q3,2023,EU,78050,116.53906597036877
+United Kingdom,Imports of goods,CP,2023-Q4,2023,EU,79312,118.42340038746812
+United Kingdom,Imports of goods,CP,2024-Q1,2024,EU,76540,114.28443445704069
+United Kingdom,Imports of goods,CP,2024-Q2,2024,EU,79859,119.24014438600486
+United Kingdom,Imports of goods,CP,2024-Q3,2024,EU,76298,113.92309616152718
+United Kingdom,Exports of goods,CVM,2018-Q1,2018,EU,54583,98.8661268995997
+United Kingdom,Exports of goods,CVM,2018-Q2,2018,EU,55931,101.30775779311345
+United Kingdom,Exports of goods,CVM,2018-Q3,2018,EU,55772,101.0197612708073
+United Kingdom,Exports of goods,CVM,2018-Q4,2018,EU,54550,98.80635403647956
+United Kingdom,Exports of goods,CVM,2019-Q1,2019,EU,58421,105.81789201036062
+United Kingdom,Exports of goods,CVM,2019-Q2,2019,EU,51543,93.35977829701679
+United Kingdom,Exports of goods,CVM,2019-Q3,2019,EU,54121,98.02930681591769
+United Kingdom,Exports of goods,CVM,2019-Q4,2019,EU,52872,95.7669945117644
+United Kingdom,Exports of goods,CVM,2020-Q1,2020,EU,49922,90.42366280860004
+United Kingdom,Exports of goods,CVM,2020-Q2,2020,EU,43925,79.5613034106758
+United Kingdom,Exports of goods,CVM,2020-Q3,2020,EU,47340,85.74688909416943
+United Kingdom,Exports of goods,CVM,2020-Q4,2020,EU,52792,95.6220906011701
+United Kingdom,Exports of goods,CVM,2021-Q1,2021,EU,41709,75.54746508721404
+United Kingdom,Exports of goods,CVM,2021-Q2,2021,EU,50426,91.33655744534406
+United Kingdom,Exports of goods,CVM,2021-Q3,2021,EU,47989,86.92242206886559
+United Kingdom,Exports of goods,CVM,2021-Q4,2021,EU,51296,92.91238747305694
+United Kingdom,Exports of goods,CVM,2022-Q1,2022,EU,48898,88.56889275299316
+United Kingdom,Exports of goods,CVM,2022-Q2,2022,EU,52638,95.34315057327609
+United Kingdom,Exports of goods,CVM,2022-Q3,2022,EU,53693,97.25407089423825
+United Kingdom,Exports of goods,CVM,2022-Q4,2022,EU,51823,93.8669419840968
+United Kingdom,Exports of goods,CVM,2023-Q1,2023,EU,47721,86.43699396837472
+United Kingdom,Exports of goods,CVM,2023-Q2,2023,EU,47422,85.89541560252857
+United Kingdom,Exports of goods,CVM,2023-Q3,2023,EU,47469,85.98054665000272
+United Kingdom,Exports of goods,CVM,2023-Q4,2023,EU,45777,82.91582894093355
+United Kingdom,Exports of goods,CVM,2024-Q1,2024,EU,44523,80.64446014236809
+United Kingdom,Exports of goods,CVM,2024-Q2,2024,EU,44666,80.90347588255537
+United Kingdom,Exports of goods,CVM,2024-Q3,2024,EU,44689,80.94513575685124
+United Kingdom,Imports of goods,CVM,2018-Q1,2018,EU,77528,100.83336313888194
+United Kingdom,Imports of goods,CVM,2018-Q2,2018,EU,77809,101.19883335663584
+United Kingdom,Imports of goods,CVM,2018-Q3,2018,EU,74891,97.40366575732648
+United Kingdom,Imports of goods,CVM,2018-Q4,2018,EU,77321,100.56413774715574
+United Kingdom,Imports of goods,CVM,2019-Q1,2019,EU,84124,109.41215871292054
+United Kingdom,Imports of goods,CVM,2019-Q2,2019,EU,74143,96.43081265099221
+United Kingdom,Imports of goods,CVM,2019-Q3,2019,EU,76306,99.24402290366739
+United Kingdom,Imports of goods,CVM,2019-Q4,2019,EU,74778,97.25669730677062
+United Kingdom,Imports of goods,CVM,2020-Q1,2020,EU,68963,89.69367482905163
+United Kingdom,Imports of goods,CVM,2020-Q2,2020,EU,52883,68.77993425437897
+United Kingdom,Imports of goods,CVM,2020-Q3,2020,EU,67377,87.63091409824125
+United Kingdom,Imports of goods,CVM,2020-Q4,2020,EU,79327,103.1731528959613
+United Kingdom,Imports of goods,CVM,2021-Q1,2021,EU,64551,83.95540222858796
+United Kingdom,Imports of goods,CVM,2021-Q2,2021,EU,67766,88.13684973776536
+United Kingdom,Imports of goods,CVM,2021-Q3,2021,EU,69249,90.06564807559121
+United Kingdom,Imports of goods,CVM,2021-Q4,2021,EU,68181,88.67660112697489
+United Kingdom,Imports of goods,CVM,2022-Q1,2022,EU,76210,99.11916475098278
+United Kingdom,Imports of goods,CVM,2022-Q2,2022,EU,78385,101.94798227274353
+United Kingdom,Imports of goods,CVM,2022-Q3,2022,EU,74461,96.84440528175998
+United Kingdom,Imports of goods,CVM,2022-Q4,2022,EU,77590,100.91400069582409
+United Kingdom,Imports of goods,CVM,2023-Q1,2023,EU,74636,97.07201128925797
+United Kingdom,Imports of goods,CVM,2023-Q2,2023,EU,76622,99.65501432292089
+United Kingdom,Imports of goods,CVM,2023-Q3,2023,EU,74700,97.15525005771438
+United Kingdom,Imports of goods,CVM,2023-Q4,2023,EU,75113,97.69240023540964
+United Kingdom,Imports of goods,CVM,2024-Q1,2024,EU,73128,95.11069780750384
+United Kingdom,Imports of goods,CVM,2024-Q2,2024,EU,76425,99.39879498876601
+United Kingdom,Imports of goods,CVM,2024-Q3,2024,EU,73520,95.62053526429935
+United Kingdom,Exports of goods,CVM,2018-Q1,2018,Non-EU,53152,100.42037049282537
+United Kingdom,Exports of goods,CVM,2018-Q2,2018,Non-EU,52917,99.97638368017834
+United Kingdom,Exports of goods,CVM,2018-Q3,2018,Non-EU,53885,101.80523148716689
+United Kingdom,Exports of goods,CVM,2018-Q4,2018,Non-EU,51764,97.7980143398294
+United Kingdom,Exports of goods,CVM,2019-Q1,2019,Non-EU,51169,96.67387751631887
+United Kingdom,Exports of goods,CVM,2019-Q2,2019,Non-EU,50222,94.8847051266307
+United Kingdom,Exports of goods,CVM,2019-Q3,2019,Non-EU,56036,105.86912780207636
+United Kingdom,Exports of goods,CVM,2019-Q4,2019,Non-EU,66690,125.99778951246469
+United Kingdom,Exports of goods,CVM,2020-Q1,2020,Non-EU,51230,96.78912515704853
+United Kingdom,Exports of goods,CVM,2020-Q2,2020,Non-EU,48527,91.68233215881503
+United Kingdom,Exports of goods,CVM,2020-Q3,2020,Non-EU,44804,84.64844746313493
+United Kingdom,Exports of goods,CVM,2020-Q4,2020,Non-EU,47617,89.96306407579894
+United Kingdom,Exports of goods,CVM,2021-Q1,2021,Non-EU,48401,91.44427965501279
+United Kingdom,Exports of goods,CVM,2021-Q2,2021,Non-EU,51624,97.53351155782693
+United Kingdom,Exports of goods,CVM,2021-Q3,2021,Non-EU,45853,86.63032902256775
+United Kingdom,Exports of goods,CVM,2021-Q4,2021,Non-EU,52120,98.47060712834997
+United Kingdom,Exports of goods,CVM,2022-Q1,2022,Non-EU,47533,89.80436240659746
+United Kingdom,Exports of goods,CVM,2022-Q2,2022,Non-EU,48430,91.49906951699903
+United Kingdom,Exports of goods,CVM,2022-Q3,2022,Non-EU,63729,120.40355567311234
+United Kingdom,Exports of goods,CVM,2022-Q4,2022,Non-EU,67379,127.29952106103401
+United Kingdom,Exports of goods,CVM,2023-Q1,2023,Non-EU,52500,99.18854325092812
+United Kingdom,Exports of goods,CVM,2023-Q2,2023,Non-EU,51952,98.15320378994701
+United Kingdom,Exports of goods,CVM,2023-Q3,2023,Non-EU,48441,91.51985187844208
+United Kingdom,Exports of goods,CVM,2023-Q4,2023,Non-EU,50363,95.15109721421892
+United Kingdom,Exports of goods,CVM,2024-Q1,2024,Non-EU,48426,91.49151229465609
+United Kingdom,Exports of goods,CVM,2024-Q2,2024,Non-EU,45688,86.31859360092197
+United Kingdom,Exports of goods,CVM,2024-Q3,2024,Non-EU,46391,87.64677542769155
+United Kingdom,Imports of goods,CVM,2018-Q1,2018,Non-EU,74282,97.51429265314964
+United Kingdom,Imports of goods,CVM,2018-Q2,2018,Non-EU,74150,97.34100859200137
+United Kingdom,Imports of goods,CVM,2018-Q3,2018,Non-EU,78377,102.890036822863
+United Kingdom,Imports of goods,CVM,2018-Q4,2018,Non-EU,77893,102.254661931986
+United Kingdom,Imports of goods,CVM,2019-Q1,2019,Non-EU,92094,120.89713884385401
+United Kingdom,Imports of goods,CVM,2019-Q2,2019,Non-EU,77408,101.61797428307003
+United Kingdom,Imports of goods,CVM,2019-Q3,2019,Non-EU,77572,101.83326660146635
+United Kingdom,Imports of goods,CVM,2019-Q4,2019,Non-EU,72665,95.39156290408334
+United Kingdom,Imports of goods,CVM,2020-Q1,2020,Non-EU,73193,96.0846991486764
+United Kingdom,Imports of goods,CVM,2020-Q2,2020,Non-EU,58826,77.22430440233408
+United Kingdom,Imports of goods,CVM,2020-Q3,2020,Non-EU,69733,91.54255633372935
+United Kingdom,Imports of goods,CVM,2020-Q4,2020,Non-EU,82735,108.61103635683389
+United Kingdom,Imports of goods,CVM,2021-Q1,2021,Non-EU,82197,107.9047725318508
+United Kingdom,Imports of goods,CVM,2021-Q2,2021,Non-EU,79691,104.61500088611169
+United Kingdom,Imports of goods,CVM,2021-Q3,2021,Non-EU,82074,107.74330329305354
+United Kingdom,Imports of goods,CVM,2021-Q4,2021,Non-EU,80398,105.54312081968611
+United Kingdom,Imports of goods,CVM,2022-Q1,2022,Non-EU,92329,121.20563698301947
+United Kingdom,Imports of goods,CVM,2022-Q2,2022,Non-EU,84435,110.84272502313736
+United Kingdom,Imports of goods,CVM,2022-Q3,2022,Non-EU,80105,105.15848271425851
+United Kingdom,Imports of goods,CVM,2022-Q4,2022,Non-EU,77144,101.27140616077348
+United Kingdom,Imports of goods,CVM,2023-Q1,2023,Non-EU,74728,98.09978273854455
+United Kingdom,Imports of goods,CVM,2023-Q2,2023,Non-EU,72647,95.3679332593813
+United Kingdom,Imports of goods,CVM,2023-Q3,2023,Non-EU,68110,89.41195003642903
+United Kingdom,Imports of goods,CVM,2023-Q4,2023,Non-EU,68140,89.4513327775991
+United Kingdom,Imports of goods,CVM,2024-Q1,2024,Non-EU,66931,87.86420830844563
+United Kingdom,Imports of goods,CVM,2024-Q2,2024,Non-EU,76427,100.33015864680901
+United Kingdom,Imports of goods,CVM,2024-Q3,2024,Non-EU,75225,98.75222348392856
+United Kingdom,Exports of goods and services,CP,2018-Q1,2018,EU,73621,97.97159501099537
+United Kingdom,Exports of goods and services,CP,2018-Q2,2018,EU,75118,99.963736896211
+United Kingdom,Exports of goods and services,CP,2018-Q3,2018,EU,76035,101.18404024206453
+United Kingdom,Exports of goods and services,CP,2018-Q4,2018,EU,75807,100.88062785072908
+United Kingdom,Exports of goods and services,CP,2019-Q1,2019,EU,75688,100.72226787454963
+United Kingdom,Exports of goods and services,CP,2019-Q2,2019,EU,73068,97.23568688639668
+United Kingdom,Exports of goods and services,CP,2019-Q3,2019,EU,76622,101.96519407414308
+United Kingdom,Exports of goods and services,CP,2019-Q4,2019,EU,73651,98.01151769406583
+United Kingdom,Exports of goods and services,CP,2020-Q1,2020,EU,70414,93.70386019076389
+United Kingdom,Exports of goods and services,CP,2020-Q2,2020,EU,58239,77.50190464467148
+United Kingdom,Exports of goods and services,CP,2020-Q3,2020,EU,61103,81.31319012179745
+United Kingdom,Exports of goods and services,CP,2020-Q4,2020,EU,69271,92.18280596577961
+United Kingdom,Exports of goods and services,CP,2021-Q1,2021,EU,61786,82.22209653970145
+United Kingdom,Exports of goods and services,CP,2021-Q2,2021,EU,69183,92.06569942877294
+United Kingdom,Exports of goods and services,CP,2021-Q3,2021,EU,67286,89.54125510261794
+United Kingdom,Exports of goods and services,CP,2021-Q4,2021,EU,78635,104.6440061081705
+United Kingdom,Exports of goods and services,CP,2022-Q1,2022,EU,78538,104.5149227662427
+United Kingdom,Exports of goods and services,CP,2022-Q2,2022,EU,88404,117.64416247201252
+United Kingdom,Exports of goods and services,CP,2022-Q3,2022,EU,93157,123.96924622647472
+United Kingdom,Exports of goods and services,CP,2022-Q4,2022,EU,92064,122.51472980660787
+United Kingdom,Exports of goods and services,CP,2023-Q1,2023,EU,91044,121.15735858221244
+United Kingdom,Exports of goods and services,CP,2023-Q2,2023,EU,88601,117.90632142417519
+United Kingdom,Exports of goods and services,CP,2023-Q3,2023,EU,88010,117.11984456768725
+United Kingdom,Exports of goods and services,CP,2023-Q4,2023,EU,88611,117.91962898519866
+United Kingdom,Exports of goods and services,CP,2024-Q1,2024,EU,87200,116.04193212478499
+United Kingdom,Exports of goods and services,CP,2024-Q2,2024,EU,88473,117.73598464307457
+United Kingdom,Exports of goods and services,CP,2018-Q1,2018,Non-EU,91424,96.45942303076342
+United Kingdom,Exports of goods and services,CP,2018-Q2,2018,Non-EU,93989,99.16569731403597
+United Kingdom,Exports of goods and services,CP,2018-Q3,2018,Non-EU,96742,102.07032620364582
+United Kingdom,Exports of goods and services,CP,2018-Q4,2018,Non-EU,96964,102.30455345155478
+United Kingdom,Exports of goods and services,CP,2019-Q1,2019,Non-EU,94393,99.59194870212255
+United Kingdom,Exports of goods and services,CP,2019-Q2,2019,Non-EU,97043,102.38790458932418
+United Kingdom,Exports of goods and services,CP,2019-Q3,2019,Non-EU,104065,109.79666015156191
+United Kingdom,Exports of goods and services,CP,2019-Q4,2019,Non-EU,112166,118.34384454485267
+United Kingdom,Exports of goods and services,CP,2020-Q1,2020,Non-EU,100633,106.17563350821246
+United Kingdom,Exports of goods and services,CP,2020-Q2,2020,Non-EU,88137,92.9913826529401
+United Kingdom,Exports of goods and services,CP,2020-Q3,2020,Non-EU,86802,91.58285393240645
+United Kingdom,Exports of goods and services,CP,2020-Q4,2020,Non-EU,89501,94.43050862657898
+United Kingdom,Exports of goods and services,CP,2021-Q1,2021,Non-EU,93293,98.43136323951055
+United Kingdom,Exports of goods and services,CP,2021-Q2,2021,Non-EU,97664,103.04310783685334
+United Kingdom,Exports of goods and services,CP,2021-Q3,2021,Non-EU,92732,97.83946465357842
+United Kingdom,Exports of goods and services,CP,2021-Q4,2021,Non-EU,106307,112.16214433990383
+United Kingdom,Exports of goods and services,CP,2022-Q1,2022,Non-EU,104044,109.77450352000295
+United Kingdom,Exports of goods and services,CP,2022-Q2,2022,Non-EU,113593,119.84944041316842
+United Kingdom,Exports of goods and services,CP,2022-Q3,2022,Non-EU,135347,142.80160055286072
+United Kingdom,Exports of goods and services,CP,2022-Q4,2022,Non-EU,142904,150.77482268100516
+United Kingdom,Exports of goods and services,CP,2023-Q1,2023,Non-EU,127508,134.53084651521024
+United Kingdom,Exports of goods and services,CP,2023-Q2,2023,Non-EU,128225,135.28733722129462
+United Kingdom,Exports of goods and services,CP,2023-Q3,2023,Non-EU,123044,129.82097969239211
+United Kingdom,Exports of goods and services,CP,2023-Q4,2023,Non-EU,126191,133.14130919315573
+United Kingdom,Exports of goods and services,CP,2024-Q1,2024,Non-EU,125940,132.87648469214153
+United Kingdom,Exports of goods and services,CP,2024-Q2,2024,Non-EU,125743,132.66863438656463
+United Kingdom,Exports of services,CP,2018-Q1,2018,EU,31082,98.83381692436106
+United Kingdom,Exports of services,CP,2018-Q2,2018,EU,31105,98.90695178663698
+United Kingdom,Exports of services,CP,2018-Q3,2018,EU,31294,99.50792956794785
+United Kingdom,Exports of services,CP,2018-Q4,2018,EU,32314,102.75130172105409
+United Kingdom,Exports of services,CP,2019-Q1,2019,EU,29663,94.32171389959856
+United Kingdom,Exports of services,CP,2019-Q2,2019,EU,31918,101.4921101792599
+United Kingdom,Exports of services,CP,2019-Q3,2019,EU,33186,105.52406693429785
+United Kingdom,Exports of services,CP,2019-Q4,2019,EU,32086,102.02631265153623
+United Kingdom,Exports of services,CP,2020-Q1,2020,EU,31475,100.08346913629317
+United Kingdom,Exports of services,CP,2020-Q2,2020,EU,26549,84.41988950276243
+United Kingdom,Exports of services,CP,2020-Q3,2020,EU,24773,78.77260622441273
+United Kingdom,Exports of services,CP,2020-Q4,2020,EU,28073,89.26586907269764
+United Kingdom,Exports of services,CP,2021-Q1,2021,EU,28824,91.65388131483763
+United Kingdom,Exports of services,CP,2021-Q2,2021,EU,28772,91.48853293056163
+United Kingdom,Exports of services,CP,2021-Q3,2021,EU,27965,88.92245319766286
+United Kingdom,Exports of services,CP,2021-Q4,2021,EU,32977,104.85949362057316
+United Kingdom,Exports of services,CP,2022-Q1,2022,EU,31935,101.54616638181169
+United Kingdom,Exports of services,CP,2022-Q2,2022,EU,36163,114.99026193409914
+United Kingdom,Exports of services,CP,2022-Q3,2022,EU,37725,119.95707301562067
+United Kingdom,Exports of services,CP,2022-Q4,2022,EU,39288,124.92706387376286
+United Kingdom,Exports of services,CP,2023-Q1,2023,EU,43198,137.35999046067013
+United Kingdom,Exports of services,CP,2023-Q2,2023,EU,42382,134.76529273818514
+United Kingdom,Exports of services,CP,2023-Q3,2023,EU,41915,133.2803370563218
+United Kingdom,Exports of services,CP,2023-Q4,2023,EU,42408,134.84796693032314
+United Kingdom,Exports of services,CP,2024-Q1,2024,EU,43249,137.52215906832546
+United Kingdom,Exports of services,CP,2024-Q2,2024,EU,43965,139.7988791287412
+United Kingdom,Exports of services,CP,2018-Q1,2018,Non-EU,48222,96.49176342289432
+United Kingdom,Exports of services,CP,2018-Q2,2018,Non-EU,49154,98.35668655984713
+United Kingdom,Exports of services,CP,2018-Q3,2018,Non-EU,50287,100.62380878534876
+United Kingdom,Exports of services,CP,2018-Q4,2018,Non-EU,52238,104.5277412319098
+United Kingdom,Exports of services,CP,2019-Q1,2019,Non-EU,50113,100.27563644003783
+United Kingdom,Exports of services,CP,2019-Q2,2019,Non-EU,52776,105.60427411568728
+United Kingdom,Exports of services,CP,2019-Q3,2019,Non-EU,54524,109.10200549271889
+United Kingdom,Exports of services,CP,2019-Q4,2019,Non-EU,54227,108.50771131710198
+United Kingdom,Exports of services,CP,2020-Q1,2020,Non-EU,55819,111.69328817764794
+United Kingdom,Exports of services,CP,2020-Q2,2020,Non-EU,46843,93.73239753678071
+United Kingdom,Exports of services,CP,2020-Q3,2020,Non-EU,48003,96.05354650552023
+United Kingdom,Exports of services,CP,2020-Q4,2020,Non-EU,48815,97.6783507836379
+United Kingdom,Exports of services,CP,2021-Q1,2021,Non-EU,51578,103.20708750831662
+United Kingdom,Exports of services,CP,2021-Q2,2021,Non-EU,53246,106.54473964612482
+United Kingdom,Exports of services,CP,2021-Q3,2021,Non-EU,52727,105.50622558166292
+United Kingdom,Exports of services,CP,2021-Q4,2021,Non-EU,58662,117.38210414155006
+United Kingdom,Exports of services,CP,2022-Q1,2022,Non-EU,58773,117.60421408597254
+United Kingdom,Exports of services,CP,2022-Q2,2022,Non-EU,65124,130.31250468982145
+United Kingdom,Exports of services,CP,2022-Q3,2022,Non-EU,70819,141.70814553203837
+United Kingdom,Exports of services,CP,2022-Q4,2022,Non-EU,74101,148.275396321179
+United Kingdom,Exports of services,CP,2023-Q1,2023,Non-EU,73339,146.75064156757597
+United Kingdom,Exports of services,CP,2023-Q2,2023,Non-EU,75030,150.13431648666088
+United Kingdom,Exports of services,CP,2023-Q3,2023,Non-EU,74101,148.275396321179
+United Kingdom,Exports of services,CP,2023-Q4,2023,Non-EU,75345,150.7646284911031
+United Kingdom,Exports of services,CP,2024-Q1,2024,Non-EU,75941,151.95721882331753
+United Kingdom,Exports of services,CP,2024-Q2,2024,Non-EU,78690,157.45794168113216
+United Kingdom,Imports of goods and services,CP,2018-Q1,2018,EU,94156,100.37016802803575
+United Kingdom,Imports of goods and services,CP,2018-Q2,2018,EU,94396,100.62600770184018
+United Kingdom,Imports of goods and services,CP,2018-Q3,2018,EU,92055,98.13050488360628
+United Kingdom,Imports of goods and services,CP,2018-Q4,2018,EU,94628,100.87331938651778
+United Kingdom,Imports of goods and services,CP,2019-Q1,2019,EU,99928,106.52311218303197
+United Kingdom,Imports of goods and services,CP,2019-Q2,2019,EU,91873,97.93649313097126
+United Kingdom,Imports of goods and services,CP,2019-Q3,2019,EU,95750,102.06936986155341
+United Kingdom,Imports of goods and services,CP,2019-Q4,2019,EU,91583,97.62735352512426
+United Kingdom,Imports of goods and services,CP,2020-Q1,2020,EU,86203,91.89228083734193
+United Kingdom,Imports of goods and services,CP,2020-Q2,2020,EU,60993,65.01845510146974
+United Kingdom,Imports of goods and services,CP,2020-Q3,2020,EU,73287,78.12384239210095
+United Kingdom,Imports of goods and services,CP,2020-Q4,2020,EU,86432,92.13639452609698
+United Kingdom,Imports of goods and services,CP,2021-Q1,2021,EU,72544,77.33180540194812
+United Kingdom,Imports of goods and services,CP,2021-Q2,2021,EU,75205,80.16842778525456
+United Kingdom,Imports of goods and services,CP,2021-Q3,2021,EU,79531,84.77993790557917
+United Kingdom,Imports of goods and services,CP,2021-Q4,2021,EU,85785,91.44669340546591
+United Kingdom,Imports of goods and services,CP,2022-Q1,2022,EU,95907,102.23673164816715
+United Kingdom,Imports of goods and services,CP,2022-Q2,2022,EU,107016,114.07891054938905
+United Kingdom,Imports of goods and services,CP,2022-Q3,2022,EU,105515,112.4788465894706
+United Kingdom,Imports of goods and services,CP,2022-Q4,2022,EU,111274,118.61793276213572
+United Kingdom,Imports of goods and services,CP,2023-Q1,2023,EU,111860,119.24260796567485
+United Kingdom,Imports of goods and services,CP,2023-Q2,2023,EU,114646,122.21248017908776
+United Kingdom,Imports of goods and services,CP,2023-Q3,2023,EU,111296,118.64138473223447
+United Kingdom,Imports of goods and services,CP,2023-Q4,2023,EU,113087,120.55058829799992
+United Kingdom,Imports of goods and services,CP,2024-Q1,2024,EU,112575,120.00479699388382
+United Kingdom,Imports of goods and services,CP,2024-Q2,2024,EU,115722,123.35949471664425
+United Kingdom,Imports of goods and services,CP,2018-Q1,2018,Non-EU,78203,93.59491830207139
+United Kingdom,Imports of goods and services,CP,2018-Q2,2018,Non-EU,80909,96.83351335501573
+United Kingdom,Imports of goods and services,CP,2018-Q3,2018,Non-EU,85975,102.89660372390559
+United Kingdom,Imports of goods and services,CP,2018-Q4,2018,Non-EU,89132,106.6749646190073
+United Kingdom,Imports of goods and services,CP,2019-Q1,2019,Non-EU,96764,115.80909523396336
+United Kingdom,Imports of goods and services,CP,2019-Q2,2019,Non-EU,87972,105.28665336201712
+United Kingdom,Imports of goods and services,CP,2019-Q3,2019,Non-EU,89438,107.0411915540409
+United Kingdom,Imports of goods and services,CP,2019-Q4,2019,Non-EU,84564,101.2078906345839
+United Kingdom,Imports of goods and services,CP,2020-Q1,2020,Non-EU,82520,98.76159045416328
+United Kingdom,Imports of goods and services,CP,2020-Q2,2020,Non-EU,64453,77.13864262654127
+United Kingdom,Imports of goods and services,CP,2020-Q3,2020,Non-EU,74236,88.84713316717482
+United Kingdom,Imports of goods and services,CP,2020-Q4,2020,Non-EU,84229,100.80695591812554
+United Kingdom,Imports of goods and services,CP,2021-Q1,2021,Non-EU,83474,99.9033567810328
+United Kingdom,Imports of goods and services,CP,2021-Q2,2021,Non-EU,84627,101.28329029767906
+United Kingdom,Imports of goods and services,CP,2021-Q3,2021,Non-EU,92421,110.6113057605941
+United Kingdom,Imports of goods and services,CP,2021-Q4,2021,Non-EU,98418,117.7886355952235
+United Kingdom,Imports of goods and services,CP,2022-Q1,2022,Non-EU,114034,136.47817748242917
+United Kingdom,Imports of goods and services,CP,2022-Q2,2022,Non-EU,117187,140.2517510973344
+United Kingdom,Imports of goods and services,CP,2022-Q3,2022,Non-EU,126100,150.91900819522527
+United Kingdom,Imports of goods and services,CP,2022-Q4,2022,Non-EU,115133,137.79348271642246
+United Kingdom,Imports of goods and services,CP,2023-Q1,2023,Non-EU,110545,132.30247233101647
+United Kingdom,Imports of goods and services,CP,2023-Q2,2023,Non-EU,106834,127.86107312869706
+United Kingdom,Imports of goods and services,CP,2023-Q3,2023,Non-EU,102526,122.70517235704732
+United Kingdom,Imports of goods and services,CP,2023-Q4,2023,Non-EU,105496,126.25972790296183
+United Kingdom,Imports of goods and services,CP,2024-Q1,2024,Non-EU,102524,122.70277871694906
+United Kingdom,Imports of goods and services,CP,2024-Q2,2024,Non-EU,114407,136.92459136075448
+United Kingdom,Imports of services,CP,2018-Q1,2018,EU,27311,101.77190661623597
+United Kingdom,Imports of services,CP,2018-Q2,2018,EU,26833,99.99068398203872
+United Kingdom,Imports of services,CP,2018-Q3,2018,EU,26317,98.06785787482998
+United Kingdom,Imports of services,CP,2018-Q4,2018,EU,26881,100.16955152689535
+United Kingdom,Imports of services,CP,2019-Q1,2019,EU,27004,100.62789961059045
+United Kingdom,Imports of services,CP,2019-Q2,2019,EU,27243,101.51851092768906
+United Kingdom,Imports of services,CP,2019-Q3,2019,EU,28163,104.94680553744107
+United Kingdom,Imports of services,CP,2019-Q4,2019,EU,26608,99.15224236552328
+United Kingdom,Imports of services,CP,2020-Q1,2020,EU,26744,99.65903374261705
+United Kingdom,Imports of services,CP,2020-Q2,2020,EU,15654,58.33317806636731
+United Kingdom,Imports of services,CP,2020-Q3,2020,EU,14782,55.083751001471924
+United Kingdom,Imports of services,CP,2020-Q4,2020,EU,16643,62.01859477185072
+United Kingdom,Imports of services,CP,2021-Q1,2021,EU,16976,63.25948836429357
+United Kingdom,Imports of services,CP,2021-Q2,2021,EU,16143,60.1553911795942
+United Kingdom,Imports of services,CP,2021-Q3,2021,EU,18335,68.32367572804681
+United Kingdom,Imports of services,CP,2021-Q4,2021,EU,24188,90.13433697900169
+United Kingdom,Imports of services,CP,2022-Q1,2022,EU,24531,91.41249464328968
+United Kingdom,Imports of services,CP,2022-Q2,2022,EU,28811,107.36151739300553
+United Kingdom,Imports of services,CP,2022-Q3,2022,EU,29577,110.21594529634254
+United Kingdom,Imports of services,CP,2022-Q4,2022,EU,30147,112.33999739151497
+United Kingdom,Imports of services,CP,2023-Q1,2023,EU,31914,118.92455888654953
+United Kingdom,Imports of services,CP,2023-Q2,2023,EU,33592,125.17747014216243
+United Kingdom,Imports of services,CP,2023-Q3,2023,EU,33246,123.88813325632091
+United Kingdom,Imports of services,CP,2023-Q4,2023,EU,33775,125.85940265692832
+United Kingdom,Imports of services,CP,2024-Q1,2024,EU,36035,134.28108289392782
+United Kingdom,Imports of services,CP,2024-Q2,2024,EU,35863,133.6401408581916
+United Kingdom,Imports of services,CP,2018-Q1,2018,Non-EU,24670,92.38143384073845
+United Kingdom,Imports of services,CP,2018-Q2,2018,Non-EU,25637,96.002546387313
+United Kingdom,Imports of services,CP,2018-Q3,2018,Non-EU,26605,99.62740362111255
+United Kingdom,Imports of services,CP,2018-Q4,2018,Non-EU,29906,111.988616150836
+United Kingdom,Imports of services,CP,2019-Q1,2019,Non-EU,26986,101.05412945383736
+United Kingdom,Imports of services,CP,2019-Q2,2019,Non-EU,29113,109.01907918141139
+United Kingdom,Imports of services,CP,2019-Q3,2019,Non-EU,29704,111.2321893313861
+United Kingdom,Imports of services,CP,2019-Q4,2019,Non-EU,29851,111.78265835346102
+United Kingdom,Imports of services,CP,2020-Q1,2020,Non-EU,27877,104.39064577131194
+United Kingdom,Imports of services,CP,2020-Q2,2020,Non-EU,22698,84.99691063303938
+United Kingdom,Imports of services,CP,2020-Q3,2020,Non-EU,23383,87.56202138216406
+United Kingdom,Imports of services,CP,2020-Q4,2020,Non-EU,22817,85.44252841281433
+United Kingdom,Imports of services,CP,2021-Q1,2021,Non-EU,22182,83.0646520249396
+United Kingdom,Imports of services,CP,2021-Q2,2021,Non-EU,23817,89.18721563781385
+United Kingdom,Imports of services,CP,2021-Q3,2021,Non-EU,26600,99.60868018498755
+United Kingdom,Imports of services,CP,2021-Q4,2021,Non-EU,29424,110.18367690838622
+United Kingdom,Imports of services,CP,2022-Q1,2022,Non-EU,29676,111.12733808908611
+United Kingdom,Imports of services,CP,2022-Q2,2022,Non-EU,34217,128.13196277780898
+United Kingdom,Imports of services,CP,2022-Q3,2022,Non-EU,36151,135.37418787095808
+United Kingdom,Imports of services,CP,2022-Q4,2022,Non-EU,38397,143.784755378307
+United Kingdom,Imports of services,CP,2023-Q1,2023,Non-EU,38394,143.77352131663204
+United Kingdom,Imports of services,CP,2023-Q2,2023,Non-EU,39626,148.38697597783147
+United Kingdom,Imports of services,CP,2023-Q3,2023,Non-EU,41229,154.38970959950572
+United Kingdom,Imports of services,CP,2023-Q4,2023,Non-EU,43321,162.2235952742047
+United Kingdom,Imports of services,CP,2024-Q1,2024,Non-EU,42320,158.4751633619802
+United Kingdom,Imports of services,CP,2024-Q2,2024,Non-EU,43661,163.49678893070455
+United Kingdom,Exports of services,CVM,2018-Q1,2018,Non-EU,50018,98.00869024233725
+United Kingdom,Imports of services,CVM,2018-Q1,2018,Non-EU,25932,95.34436958260181
+United Kingdom,Exports of services,CVM,2018-Q1,2018,EU,31829,99.40970703979012
+United Kingdom,Imports of services,CVM,2018-Q1,2018,EU,26432,96.74432223706604
+United Kingdom,Exports of services,CVM,2018-Q2,2018,Non-EU,50009,97.99105502677124
+United Kingdom,Imports of services,CVM,2018-Q2,2018,Non-EU,26323,96.78196207476584
+United Kingdom,Exports of services,CVM,2018-Q2,2018,EU,31963,99.82822162533574
+United Kingdom,Imports of services,CVM,2018-Q2,2018,EU,27095,99.17098255952273
+United Kingdom,Exports of services,CVM,2018-Q3,2018,Non-EU,51509,100.93025762110739
+United Kingdom,Imports of services,CVM,2018-Q3,2018,Non-EU,26876,98.81518112378554
+United Kingdom,Exports of services,CVM,2018-Q3,2018,EU,32037,100.05934162033856
+United Kingdom,Imports of services,CVM,2018-Q3,2018,EU,26841,98.24131178742016
+United Kingdom,Exports of services,CVM,2018-Q4,2018,Non-EU,52601,103.06999710978411
+United Kingdom,Imports of services,CVM,2018-Q4,2018,Non-EU,29662,109.0584872188468
+United Kingdom,Exports of services,CVM,2018-Q4,2018,EU,32243,100.70272971453558
+United Kingdom,Imports of services,CVM,2018-Q4,2018,EU,28918,105.84338341599107
+United Kingdom,Exports of services,CVM,2019-Q1,2019,Non-EU,50739,99.42146695601484
+United Kingdom,Imports of services,CVM,2019-Q1,2019,Non-EU,28032,103.06545457887914
+United Kingdom,Exports of services,CVM,2019-Q1,2019,EU,29553,92.30120557186584
+United Kingdom,Imports of services,CVM,2019-Q1,2019,EU,26877,98.37307614882053
+United Kingdom,Exports of services,CVM,2019-Q2,2019,Non-EU,52401,102.6781034305393
+United Kingdom,Imports of services,CVM,2019-Q2,2019,Non-EU,29430,108.20549116211522
+United Kingdom,Exports of services,CVM,2019-Q2,2019,EU,32143,100.3904053969642
+United Kingdom,Imports of services,CVM,2019-Q2,2019,EU,26988,98.77934959647165
+United Kingdom,Exports of services,CVM,2019-Q3,2019,Non-EU,54267,106.33447145789347
+United Kingdom,Imports of services,CVM,2019-Q3,2019,Non-EU,29048,106.80098903422095
+United Kingdom,Exports of services,CVM,2019-Q3,2019,EU,33197,103.6823037041664
+United Kingdom,Imports of services,CVM,2019-Q3,2019,EU,27999,102.47973207913181
+United Kingdom,Exports of services,CVM,2019-Q4,2019,Non-EU,54233,106.26784953242185
+United Kingdom,Imports of services,CVM,2019-Q4,2019,Non-EU,29144,107.15395291976506
+United Kingdom,Exports of services,CVM,2019-Q4,2019,EU,31960,99.8188518958086
+United Kingdom,Imports of services,CVM,2019-Q4,2019,EU,27154,99.38692970737331
+United Kingdom,Exports of services,CVM,2020-Q1,2020,Non-EU,55239,108.2390747390233
+United Kingdom,Imports of services,CVM,2020-Q1,2020,Non-EU,28972,106.52155929149853
+United Kingdom,Exports of services,CVM,2020-Q1,2020,EU,30874,96.42700980698358
+United Kingdom,Imports of services,CVM,2020-Q1,2020,EU,25650,93.88210749775817
+United Kingdom,Exports of services,CVM,2020-Q2,2020,Non-EU,46016,90.1668977206484
+United Kingdom,Imports of services,CVM,2020-Q2,2020,Non-EU,22042,81.04197880378334
+United Kingdom,Exports of services,CVM,2020-Q2,2020,EU,25010,78.11231182459866
+United Kingdom,Imports of services,CVM,2020-Q2,2020,EU,15113,55.31541094010212
+United Kingdom,Exports of services,CVM,2020-Q3,2020,Non-EU,46868,91.83636479423133
+United Kingdom,Imports of services,CVM,2020-Q3,2020,Non-EU,23242,85.45402737308466
+United Kingdom,Exports of services,CVM,2020-Q3,2020,EU,24823,77.52826535074021
+United Kingdom,Imports of services,CVM,2020-Q3,2020,EU,15502,56.73919806745603
+United Kingdom,Exports of services,CVM,2020-Q4,2020,Non-EU,47319,92.7200850409284
+United Kingdom,Imports of services,CVM,2020-Q4,2020,Non-EU,23070,84.82163374481814
+United Kingdom,Exports of services,CVM,2020-Q4,2020,EU,26454,82.62227497032919
+United Kingdom,Imports of services,CVM,2020-Q4,2020,EU,16689,61.08376187251798
+United Kingdom,Exports of services,CVM,2021-Q1,2021,Non-EU,50829,99.597819111675
+United Kingdom,Imports of services,CVM,2021-Q1,2021,Non-EU,23146,85.10106348754056
+United Kingdom,Exports of services,CVM,2021-Q1,2021,EU,27989,87.41645324504967
+United Kingdom,Imports of services,CVM,2021-Q1,2021,EU,17764,65.0183921087788
+United Kingdom,Exports of services,CVM,2021-Q2,2021,Non-EU,53592,105.0118302904422
+United Kingdom,Imports of services,CVM,2021-Q2,2021,Non-EU,25977,95.50982140395062
+United Kingdom,Exports of services,CVM,2021-Q2,2021,EU,27783,86.77306515085264
+United Kingdom,Imports of services,CVM,2021-Q2,2021,EU,17589,64.37787090752704
+United Kingdom,Exports of services,CVM,2021-Q3,2021,Non-EU,52573,103.01513199468984
+United Kingdom,Imports of services,CVM,2021-Q3,2021,Non-EU,26833,98.6570827167189
+United Kingdom,Exports of services,CVM,2021-Q3,2021,EU,28401,88.70322943344368
+United Kingdom,Imports of services,CVM,2021-Q3,2021,EU,19440,71.15275515619567
+United Kingdom,Exports of services,CVM,2021-Q4,2021,Non-EU,57637,112.9378799531687
+United Kingdom,Imports of services,CVM,2021-Q4,2021,Non-EU,28645,105.31927605636393
+United Kingdom,Exports of services,CVM,2021-Q4,2021,EU,31168,97.34524330064339
+United Kingdom,Imports of services,CVM,2021-Q4,2021,EU,22934,83.94121845433084
+United Kingdom,Exports of services,CVM,2022-Q1,2022,Non-EU,53457,104.74730205695195
+United Kingdom,Imports of services,CVM,2022-Q1,2022,Non-EU,29201,107.36352522680687
+United Kingdom,Exports of services,CVM,2022-Q1,2022,EU,29965,93.58798176025985
+United Kingdom,Imports of services,CVM,2022-Q1,2022,EU,23899,87.47323536409056
+United Kingdom,Exports of services,CVM,2022-Q2,2022,Non-EU,57335,112.34612049750903
+United Kingdom,Imports of services,CVM,2022-Q2,2022,Non-EU,32700,120.22832351346136
+United Kingdom,Exports of services,CVM,2022-Q2,2022,EU,31194,97.42644762321194
+United Kingdom,Imports of services,CVM,2022-Q2,2022,EU,27442,100.44104459857621
+United Kingdom,Exports of services,CVM,2022-Q3,2022,Non-EU,59125,115.85356892675019
+United Kingdom,Imports of services,CVM,2022-Q3,2022,Non-EU,31467,115.69494360850423
+United Kingdom,Exports of services,CVM,2022-Q3,2022,EU,33489,104.5942907114748
+United Kingdom,Imports of services,CVM,2022-Q3,2022,EU,28836,105.54325348169024
+United Kingdom,Exports of services,CVM,2022-Q4,2022,Non-EU,59828,117.23107520929572
+United Kingdom,Imports of services,CVM,2022-Q4,2022,Non-EU,34390,126.44195858189407
+United Kingdom,Exports of services,CVM,2022-Q4,2022,EU,32880,102.69223561746517
+United Kingdom,Imports of services,CVM,2022-Q4,2022,EU,26556,97.19817725966729
+United Kingdom,Exports of services,CVM,2023-Q1,2023,Non-EU,60040,117.64648250929524
+United Kingdom,Imports of services,CVM,2023-Q1,2023,Non-EU,35023,128.7693142022005
+United Kingdom,Exports of services,CVM,2023-Q1,2023,EU,34488,107.71441064401274
+United Kingdom,Imports of services,CVM,2023-Q1,2023,EU,29836,109.20337463170031
+United Kingdom,Exports of services,CVM,2023-Q2,2023,Non-EU,59900,117.37215693382386
+United Kingdom,Imports of services,CVM,2023-Q2,2023,Non-EU,36051,132.54896914323533
+United Kingdom,Exports of services,CVM,2023-Q2,2023,EU,34683,108.3234430632769
+United Kingdom,Imports of services,CVM,2023-Q2,2023,EU,30587,111.95212561535787
+United Kingdom,Exports of services,CVM,2023-Q3,2023,Non-EU,62596,122.65488373004403
+United Kingdom,Imports of services,CVM,2023-Q3,2023,Non-EU,35913,132.04158355776568
+United Kingdom,Exports of services,CVM,2023-Q3,2023,EU,34577,107.99237928665126
+United Kingdom,Imports of services,CVM,2023-Q3,2023,EU,31546,115.46218179821753
+United Kingdom,Exports of services,CVM,2023-Q4,2023,Non-EU,60171,117.90317286920057
+United Kingdom,Imports of services,CVM,2023-Q4,2023,Non-EU,36794,135.28076254906105
+United Kingdom,Exports of services,CVM,2023-Q4,2023,EU,34649,108.21725279530263
+United Kingdom,Imports of services,CVM,2023-Q4,2023,EU,31037,113.59918013286239
+United Kingdom,Exports of services,CVM,2024-Q1,2024,Non-EU,60717,118.97304261353894
+United Kingdom,Imports of services,CVM,2024-Q1,2024,Non-EU,35528,130.62605130844815
+United Kingdom,Exports of services,CVM,2024-Q1,2024,EU,35229,110.02873383721656
+United Kingdom,Imports of services,CVM,2024-Q1,2024,EU,31128,113.9322511575133
+United Kingdom (less PM),Exports of goods and services,CP,2018-Q1,2018,EU (less PM),73619,98.00969193492558
+United Kingdom (less PM),Imports of goods and services,CP,2018-Q1,2018,EU (less PM),94156,100.44967434615857
+United Kingdom (less PM),Exports of goods and services,CP,2018-Q2,2018,EU (less PM),75099,99.98003035386212
+United Kingdom (less PM),Imports of goods and services,CP,2018-Q2,2018,EU (less PM),94239,100.53822231942348
+United Kingdom (less PM),Exports of goods and services,CP,2018-Q3,2018,EU (less PM),76033,101.2234736533802
+United Kingdom (less PM),Imports of goods and services,CP,2018-Q3,2018,EU (less PM),91954,98.1004859470099
+United Kingdom (less PM),Exports of goods and services,CP,2018-Q4,2018,EU (less PM),75705,100.78680405783209
+United Kingdom (less PM),Imports of goods and services,CP,2018-Q4,2018,EU (less PM),94589,100.91161738740806
+United Kingdom (less PM),Exports of goods and services,CP,2019-Q1,2019,EU (less PM),75688,100.76417179220918
+United Kingdom (less PM),Imports of goods and services,CP,2019-Q1,2019,EU (less PM),99850,106.52427868074187
+United Kingdom (less PM),Exports of goods and services,CP,2019-Q2,2019,EU (less PM),73043,97.24285752323135
+United Kingdom (less PM),Imports of goods and services,CP,2019-Q2,2019,EU (less PM),91820,97.95752897812439
+United Kingdom (less PM),Exports of goods and services,CP,2019-Q3,2019,EU (less PM),76442,101.7679793380728
+United Kingdom (less PM),Imports of goods and services,CP,2019-Q3,2019,EU (less PM),95663,102.057406824595
+United Kingdom (less PM),Exports of goods and services,CP,2019-Q4,2019,EU (less PM),73234,97.49713768405357
+United Kingdom (less PM),Imports of goods and services,CP,2019-Q4,2019,EU (less PM),91583,97.70468717494626
+United Kingdom (less PM),Exports of goods and services,CP,2020-Q1,2020,EU (less PM),70168,93.41534201347285
+United Kingdom (less PM),Imports of goods and services,CP,2020-Q1,2020,EU (less PM),86203,91.96507155849767
+United Kingdom (less PM),Exports of goods and services,CP,2020-Q2,2020,EU (less PM),57001,75.88598663365018
+United Kingdom (less PM),Imports of goods and services,CP,2020-Q2,2020,EU (less PM),60993,65.06995823309454
+United Kingdom (less PM),Exports of goods and services,CP,2020-Q3,2020,EU (less PM),61099,81.34169395851639
+United Kingdom (less PM),Imports of goods and services,CP,2020-Q3,2020,EU (less PM),73278,78.17612511935307
+United Kingdom (less PM),Exports of goods and services,CP,2020-Q4,2020,EU (less PM),69271,92.2211571744282
+United Kingdom (less PM),Imports of goods and services,CP,2020-Q4,2020,EU (less PM),86180,91.94053416831582
+United Kingdom (less PM),Exports of goods and services,CP,2021-Q1,2021,EU (less PM),61786,82.25630375163085
+United Kingdom (less PM),Imports of goods and services,CP,2021-Q1,2021,EU (less PM),72318,77.15195579002395
+United Kingdom (less PM),Exports of goods and services,CP,2021-Q2,2021,EU (less PM),68742,91.51689432063263
+United Kingdom (less PM),Imports of goods and services,CP,2021-Q2,2021,EU (less PM),75201,80.22766430716544
+United Kingdom (less PM),Exports of goods and services,CP,2021-Q3,2021,EU (less PM),67286,89.57850733551668
+United Kingdom (less PM),Imports of goods and services,CP,2021-Q3,2021,EU (less PM),79397,84.7041377507748
+United Kingdom (less PM),Exports of goods and services,CP,2021-Q4,2021,EU (less PM),78302,104.24421545916873
+United Kingdom (less PM),Imports of goods and services,CP,2021-Q4,2021,EU (less PM),85756,91.48819271452881
+United Kingdom (less PM),Exports of goods and services,CP,2022-Q1,2022,EU (less PM),78537,104.55707324866204
+United Kingdom (less PM),Imports of goods and services,CP,2022-Q1,2022,EU (less PM),95470,101.8515061156778
+United Kingdom (less PM),Exports of goods and services,CP,2022-Q2,2022,EU (less PM),88401,117.68911254892562
+United Kingdom (less PM),Imports of goods and services,CP,2022-Q2,2022,EU (less PM),106831,113.97191002245705
+United Kingdom (less PM),Exports of goods and services,CP,2022-Q3,2022,EU (less PM),92791,123.53356231860906
+United Kingdom (less PM),Imports of goods and services,CP,2022-Q3,2022,EU (less PM),105490,112.54127349055042
+United Kingdom (less PM),Exports of goods and services,CP,2022-Q4,2022,EU (less PM),91566,121.9027078840163
+United Kingdom (less PM),Imports of goods and services,CP,2022-Q4,2022,EU (less PM),111261,118.69802474009037
+United Kingdom (less PM),Exports of goods and services,CP,2023-Q1,2023,EU (less PM),90781,120.85762973613441
+United Kingdom (less PM),Imports of goods and services,CP,2023-Q1,2023,EU (less PM),111835,119.31039265158505
+United Kingdom (less PM),Exports of goods and services,CP,2023-Q2,2023,EU (less PM),88361,117.63586015922465
+United Kingdom (less PM),Imports of goods and services,CP,2023-Q2,2023,EU (less PM),114628,122.29008529410197
+United Kingdom (less PM),Exports of goods and services,CP,2023-Q3,2023,EU (less PM),87972,117.11798066938255
+United Kingdom (less PM),Imports of goods and services,CP,2023-Q3,2023,EU (less PM),111269,118.70655948450144
+United Kingdom (less PM),Exports of goods and services,CP,2023-Q4,2023,EU (less PM),87836,116.93692254439918
+United Kingdom (less PM),Imports of goods and services,CP,2023-Q4,2023,EU (less PM),113059,120.61620854647967
+United Kingdom (less PM),Exports of goods and services,CP,2024-Q1,2024,EU (less PM),87160,116.03695715845248
+United Kingdom (less PM),Imports of goods and services,CP,2024-Q1,2024,EU (less PM),112505,120.02517749601267
+United Kingdom (less PM),Exports of goods and services,CP,2024-Q2,2024,EU (less PM),88471,117.78230423090237
+United Kingdom (less PM),Imports of goods and services,CP,2024-Q2,2024,EU (less PM),114633,122.29541950935887
+United Kingdom (less PM),Exports of goods and services,CP,2024-Q3,2024,EU (less PM),NA,NA
+United Kingdom (less PM),Imports of goods and services,CP,2024-Q3,2024,EU (less PM),NA,NA
+United Kingdom (less PM),Exports of goods and services,CP,2018-Q1,2018,Non-EU (less PM),91300,96.71866310018802
+United Kingdom (less PM),Imports of goods and services,CP,2018-Q1,2018,Non-EU (less PM),77555,93.92864063559733
+United Kingdom (less PM),Exports of goods and services,CP,2018-Q2,2018,Non-EU (less PM),93460,99.00685929182447
+United Kingdom (less PM),Imports of goods and services,CP,2018-Q2,2018,Non-EU (less PM),79327,96.07475050867164
+United Kingdom (less PM),Exports of goods and services,CP,2018-Q3,2018,Non-EU (less PM),96503,102.23046161180116
+United Kingdom (less PM),Imports of goods and services,CP,2018-Q3,2018,Non-EU (less PM),84965,102.90306171882571
+United Kingdom (less PM),Exports of goods and services,CP,2018-Q4,2018,Non-EU (less PM),96327,102.04401599618633
+United Kingdom (less PM),Imports of goods and services,CP,2018-Q4,2018,Non-EU (less PM),88425,107.09354713690533
+United Kingdom (less PM),Exports of goods and services,CP,2019-Q1,2019,Non-EU (less PM),94393,99.99523292460076
+United Kingdom (less PM),Imports of goods and services,CP,2019-Q1,2019,Non-EU (less PM),85994,104.14930723767077
+United Kingdom (less PM),Exports of goods and services,CP,2019-Q2,2019,Non-EU (less PM),95749,101.43171164490585
+United Kingdom (less PM),Imports of goods and services,CP,2019-Q2,2019,Non-EU (less PM),85531,103.58855731033813
+United Kingdom (less PM),Exports of goods and services,CP,2019-Q3,2019,Non-EU (less PM),103013,109.12683068937208
+United Kingdom (less PM),Imports of goods and services,CP,2019-Q3,2019,Non-EU (less PM),87208,105.61961050285824
+United Kingdom (less PM),Exports of goods and services,CP,2019-Q4,2019,Non-EU (less PM),100643,106.61617097910433
+United Kingdom (less PM),Imports of goods and services,CP,2019-Q4,2019,Non-EU (less PM),84564,102.41740141459161
+United Kingdom (less PM),Exports of goods and services,CP,2020-Q1,2020,Non-EU (less PM),99199,105.08646945099183
+United Kingdom (less PM),Imports of goods and services,CP,2020-Q1,2020,Non-EU (less PM),80592,97.60682104447244
+United Kingdom (less PM),Exports of goods and services,CP,2020-Q2,2020,Non-EU (less PM),80403,85.17492518339999
+United Kingdom (less PM),Imports of goods and services,CP,2020-Q2,2020,Non-EU (less PM),64453,78.06050770274197
+United Kingdom (less PM),Exports of goods and services,CP,2020-Q3,2020,Non-EU (less PM),86791,91.94205355014698
+United Kingdom (less PM),Imports of goods and services,CP,2020-Q3,2020,Non-EU (less PM),73712,89.27429512644125
+United Kingdom (less PM),Exports of goods and services,CP,2020-Q4,2020,Non-EU (less PM),89501,94.81289229057973
+United Kingdom (less PM),Imports of goods and services,CP,2020-Q4,2020,Non-EU (less PM),77841,94.27502180021315
+United Kingdom (less PM),Exports of goods and services,CP,2021-Q1,2021,Non-EU (less PM),93293,98.82994782700814
+United Kingdom (less PM),Imports of goods and services,CP,2021-Q1,2021,Non-EU (less PM),76194,92.28030229628912
+United Kingdom (less PM),Exports of goods and services,CP,2021-Q2,2021,Non-EU (less PM),96296,102.011176143436
+United Kingdom (less PM),Imports of goods and services,CP,2021-Q2,2021,Non-EU (less PM),84328,102.13157639763588
+United Kingdom (less PM),Exports of goods and services,CP,2021-Q3,2021,Non-EU (less PM),92732,98.23565242723589
+United Kingdom (less PM),Imports of goods and services,CP,2021-Q3,2021,Non-EU (less PM),89906,108.8872202305978
+United Kingdom (less PM),Exports of goods and services,CP,2021-Q4,2021,Non-EU (less PM),102515,108.59927434518923
+United Kingdom (less PM),Imports of goods and services,CP,2021-Q4,2021,Non-EU (less PM),98066,118.76998352872783
+United Kingdom (less PM),Exports of goods and services,CP,2022-Q1,2022,Non-EU (less PM),104043,110.21796128075425
+United Kingdom (less PM),Imports of goods and services,CP,2022-Q1,2022,Non-EU (less PM),107295,129.94743726383103
+United Kingdom (less PM),Exports of goods and services,CP,2022-Q2,2022,Non-EU (less PM),113592,120.33369527794697
+United Kingdom (less PM),Imports of goods and services,CP,2022-Q2,2022,Non-EU (less PM),115667,140.08695862803992
+United Kingdom (less PM),Exports of goods and services,CP,2022-Q3,2022,Non-EU (less PM),122029,129.27143197648243
+United Kingdom (less PM),Imports of goods and services,CP,2022-Q3,2022,Non-EU (less PM),126094,152.71533766107933
+United Kingdom (less PM),Exports of goods and services,CP,2022-Q4,2022,Non-EU (less PM),124790,132.1962975714399
+United Kingdom (less PM),Imports of goods and services,CP,2022-Q4,2022,Non-EU (less PM),115127,139.43295223331074
+United Kingdom (less PM),Exports of goods and services,CP,2023-Q1,2023,Non-EU (less PM),121494,128.70467967901692
+United Kingdom (less PM),Imports of goods and services,CP,2023-Q1,2023,Non-EU (less PM),110523,133.85694215676776
+United Kingdom (less PM),Exports of goods and services,CP,2023-Q2,2023,Non-EU (less PM),124232,131.60518022193384
+United Kingdom (less PM),Imports of goods and services,CP,2023-Q2,2023,Non-EU (less PM),106827,129.38063172173239
+United Kingdom (less PM),Exports of goods and services,CP,2023-Q3,2023,Non-EU (less PM),121085,128.27140549273022
+United Kingdom (less PM),Imports of goods and services,CP,2023-Q3,2023,Non-EU (less PM),102524,124.1691696541033
+United Kingdom (less PM),Exports of goods and services,CP,2023-Q4,2023,Non-EU (less PM),121696,128.91866839693847
+United Kingdom (less PM),Imports of goods and services,CP,2023-Q4,2023,Non-EU (less PM),105495,127.76741594806704
+United Kingdom (less PM),Exports of goods and services,CP,2024-Q1,2024,Non-EU (less PM),122808,130.09666569559576
+United Kingdom (less PM),Imports of goods and services,CP,2024-Q1,2024,Non-EU (less PM),102256,123.8445887026451
+United Kingdom (less PM),Exports of goods and services,CP,2024-Q2,2024,Non-EU (less PM),125738,133.20056145554702
+United Kingdom (less PM),Imports of goods and services,CP,2024-Q2,2024,Non-EU (less PM),109447,132.55377385912217
+United Kingdom (less PM),Exports of goods and services,CP,2024-Q3,2024,Non-EU (less PM),NA,NA
+United Kingdom (less PM),Imports of goods and services,CP,2024-Q3,2024,Non-EU (less PM),NA,NA
+United Kingdom (less PM),Exports of goods and services,CVM,2018-Q1,2018,EU (less PM),86426,99.11039629365236
+United Kingdom (less PM),Imports of goods and services,CVM,2018-Q1,2018,EU (less PM),103950,99.84200087403772
+United Kingdom,Exports of goods and services,CVM,2018-Q1,2018,EU,86412,99.06565627615302
+United Kingdom,Imports of goods and services,CVM,2018-Q1,2018,EU,103960,99.76129643623976
+United Kingdom (less PM),Exports of goods and services,CVM,2018-Q2,2018,EU (less PM),87885,100.78352785351213
+United Kingdom (less PM),Imports of goods and services,CVM,2018-Q2,2018,EU (less PM),104716,100.57772932684688
+United Kingdom,Exports of goods and services,CVM,2018-Q2,2018,EU,87894,100.76467148933244
+United Kingdom,Imports of goods and services,CVM,2018-Q2,2018,EU,104904,100.66717046313289
+United Kingdom (less PM),Exports of goods and services,CVM,2018-Q3,2018,EU (less PM),87823,100.7124283629629
+United Kingdom (less PM),Imports of goods and services,CVM,2018-Q3,2018,EU (less PM),101608,97.59255435121908
+United Kingdom,Exports of goods and services,CVM,2018-Q3,2018,EU,87809,100.66722459788826
+United Kingdom,Imports of goods and services,CVM,2018-Q3,2018,EU,101732,97.6232801948013
+United Kingdom (less PM),Exports of goods and services,CVM,2018-Q4,2018,EU (less PM),86673,99.39364748987262
+United Kingdom (less PM),Imports of goods and services,CVM,2018-Q4,2018,EU (less PM),106184,101.9877154478963
+United Kingdom,Exports of goods and services,CVM,2018-Q4,2018,EU,86793,99.50244763662627
+United Kingdom,Imports of goods and services,CVM,2018-Q4,2018,EU,106239,101.94825290582605
+United Kingdom (less PM),Exports of goods and services,CVM,2019-Q1,2019,EU (less PM),87984,100.89705768519555
+United Kingdom (less PM),Imports of goods and services,CVM,2019-Q1,2019,EU (less PM),110899,106.51638340480913
+United Kingdom,Exports of goods and services,CVM,2019-Q1,2019,EU,87974,100.85638621069164
+United Kingdom,Imports of goods and services,CVM,2019-Q1,2019,EU,111001,106.51792675758993
+United Kingdom (less PM),Exports of goods and services,CVM,2019-Q2,2019,EU (less PM),83664,95.9430286662825
+United Kingdom (less PM),Imports of goods and services,CVM,2019-Q2,2019,EU (less PM),101060,97.06621075834778
+United Kingdom,Exports of goods and services,CVM,2019-Q2,2019,EU,83686,95.94047714583786
+United Kingdom,Imports of goods and services,CVM,2019-Q2,2019,EU,101131,97.04655319251022
+United Kingdom (less PM),Exports of goods and services,CVM,2019-Q3,2019,EU (less PM),87103,99.88675685981072
+United Kingdom (less PM),Imports of goods and services,CVM,2019-Q3,2019,EU (less PM),104199,100.08116064525115
+United Kingdom,Exports of goods and services,CVM,2019-Q3,2019,EU,87318,100.1043254955461
+United Kingdom,Imports of goods and services,CVM,2019-Q3,2019,EU,104305,100.09236268547508
+United Kingdom (less PM),Exports of goods and services,CVM,2019-Q4,2019,EU (less PM),84299,96.67122506142366
+United Kingdom (less PM),Imports of goods and services,CVM,2019-Q4,2019,EU (less PM),101924,97.8960663500281
+United Kingdom,Exports of goods and services,CVM,2019-Q4,2019,EU,84832,97.25429052930859
+United Kingdom,Imports of goods and services,CVM,2019-Q4,2019,EU,101932,97.81520265812613
+United Kingdom (less PM),Exports of goods and services,CVM,2020-Q1,2020,EU (less PM),80483,92.29516609471715
+United Kingdom (less PM),Imports of goods and services,CVM,2020-Q1,2020,EU (less PM),94593,90.85478007386098
+United Kingdom,Exports of goods and services,CVM,2020-Q1,2020,EU,80796,92.62728283673634
+United Kingdom,Imports of goods and services,CVM,2020-Q1,2020,EU,94613,90.79180011275444
+United Kingdom (less PM),Exports of goods and services,CVM,2020-Q2,2020,EU (less PM),67324,77.20487260863457
+United Kingdom (less PM),Imports of goods and services,CVM,2020-Q2,2020,EU (less PM),67978,65.29157802227355
+United Kingdom,Exports of goods and services,CVM,2020-Q2,2020,EU,68935,79.02942896121614
+United Kingdom,Imports of goods and services,CVM,2020-Q2,2020,EU,67996,65.2497990811712
+United Kingdom (less PM),Exports of goods and services,CVM,2020-Q3,2020,EU (less PM),72162,82.75292640342654
+United Kingdom (less PM),Imports of goods and services,CVM,2020-Q3,2020,EU (less PM),82854,79.57969351051007
+United Kingdom,Exports of goods and services,CVM,2020-Q3,2020,EU,72163,82.73011796806034
+United Kingdom,Imports of goods and services,CVM,2020-Q3,2020,EU,82879,79.53170918948744
+United Kingdom (less PM),Exports of goods and services,CVM,2020-Q4,2020,EU (less PM),79249,90.88005687959244
+United Kingdom (less PM),Imports of goods and services,CVM,2020-Q4,2020,EU (less PM),95767,91.98238477829696
+United Kingdom,Exports of goods and services,CVM,2020-Q4,2020,EU,79246,90.8503101104016
+United Kingdom,Imports of goods and services,CVM,2020-Q4,2020,EU,96016,92.13813619297804
+United Kingdom (less PM),Exports of goods and services,CVM,2021-Q1,2021,EU (less PM),69703,79.93302886696655
+United Kingdom (less PM),Imports of goods and services,CVM,2021-Q1,2021,EU (less PM),82088,78.8439650577009
+United Kingdom,Exports of goods and services,CVM,2021-Q1,2021,EU,69698,79.90415811617963
+United Kingdom,Imports of goods and services,CVM,2021-Q1,2021,EU,82315,78.99048784291146
+United Kingdom (less PM),Exports of goods and services,CVM,2021-Q2,2021,EU (less PM),77683,89.08422136023646
+United Kingdom (less PM),Imports of goods and services,CVM,2021-Q2,2021,EU (less PM),85322,81.95016064044873
+United Kingdom,Exports of goods and services,CVM,2021-Q2,2021,EU,78209,89.66145803478281
+United Kingdom,Imports of goods and services,CVM,2021-Q2,2021,EU,85355,81.90770928544868
+United Kingdom (less PM),Exports of goods and services,CVM,2021-Q3,2021,EU (less PM),76397,87.60948031432856
+United Kingdom (less PM),Imports of goods and services,CVM,2021-Q3,2021,EU (less PM),88561,85.06115862824102
+United Kingdom,Exports of goods and services,CVM,2021-Q3,2021,EU,76390,87.57609455787772
+United Kingdom,Imports of goods and services,CVM,2021-Q3,2021,EU,88689,85.10705674907338
+United Kingdom (less PM),Exports of goods and services,CVM,2021-Q4,2021,EU (less PM),82069,94.11393693360512
+United Kingdom (less PM),Imports of goods and services,CVM,2021-Q4,2021,EU (less PM),91059,87.46044018844637
+United Kingdom,Exports of goods and services,CVM,2021-Q4,2021,EU,82464,94.5395347770759
+United Kingdom,Imports of goods and services,CVM,2021-Q4,2021,EU,91115,87.4350762292034
+United Kingdom (less PM),Exports of goods and services,CVM,2022-Q1,2022,EU (less PM),78867,90.44199227653115
+United Kingdom (less PM),Imports of goods and services,CVM,2022-Q1,2022,EU (less PM),99719,95.77820572542728
+United Kingdom,Exports of goods and services,CVM,2022-Q1,2022,EU,78863,90.41122588189437
+United Kingdom,Imports of goods and services,CVM,2022-Q1,2022,EU,100109,96.06582940492041
+United Kingdom (less PM),Exports of goods and services,CVM,2022-Q2,2022,EU (less PM),83834,96.13797888230454
+United Kingdom (less PM),Imports of goods and services,CVM,2022-Q2,2022,EU (less PM),105670,101.49402820932723
+United Kingdom,Exports of goods and services,CVM,2022-Q2,2022,EU,83832,96.10785651231843
+United Kingdom,Imports of goods and services,CVM,2022-Q2,2022,EU,105827,101.55289263137692
+United Kingdom (less PM),Exports of goods and services,CVM,2022-Q3,2022,EU (less PM),86802,99.54158030085405
+United Kingdom (less PM),Imports of goods and services,CVM,2022-Q3,2022,EU (less PM),103247,99.16678272478858
+United Kingdom,Exports of goods and services,CVM,2022-Q3,2022,EU,87182,99.94841046923544
+United Kingdom,Imports of goods and services,CVM,2022-Q3,2022,EU,103297,99.12507347031799
+United Kingdom (less PM),Exports of goods and services,CVM,2022-Q4,2022,EU (less PM),84209,96.56801612352963
+United Kingdom (less PM),Imports of goods and services,CVM,2022-Q4,2022,EU (less PM),104083,99.96974484821999
+United Kingdom,Exports of goods and services,CVM,2022-Q4,2022,EU,84703,97.10640054111686
+United Kingdom,Imports of goods and services,CVM,2022-Q4,2022,EU,104146,99.93978432713185
+United Kingdom (less PM),Exports of goods and services,CVM,2023-Q1,2023,EU (less PM),81956,93.9843523782493
+United Kingdom (less PM),Imports of goods and services,CVM,2023-Q1,2023,EU (less PM),104447,100.31935993545567
+United Kingdom,Exports of goods and services,CVM,2023-Q1,2023,EU,82209,94.24719410274342
+United Kingdom,Imports of goods and services,CVM,2023-Q1,2023,EU,104472,100.25261794235129
+United Kingdom (less PM),Exports of goods and services,CVM,2023-Q2,2023,EU (less PM),81863,93.87770314242547
+United Kingdom (less PM),Imports of goods and services,CVM,2023-Q2,2023,EU (less PM),107193,102.95684078586555
+United Kingdom,Exports of goods and services,CVM,2023-Q2,2023,EU,82105,94.12796496497644
+United Kingdom,Imports of goods and services,CVM,2023-Q2,2023,EU,107209,102.87907685295141
+United Kingdom (less PM),Exports of goods and services,CVM,2023-Q3,2023,EU (less PM),82005,94.0405439111027
+United Kingdom (less PM),Imports of goods and services,CVM,2023-Q3,2023,EU (less PM),106222,102.0242137262341
+United Kingdom,Exports of goods and services,CVM,2023-Q3,2023,EU,82046,94.06032535797402
+United Kingdom,Imports of goods and services,CVM,2023-Q3,2023,EU,106246,101.95497019204241
+United Kingdom (less PM),Exports of goods and services,CVM,2023-Q4,2023,EU (less PM),79590,91.27110407761312
+United Kingdom (less PM),Imports of goods and services,CVM,2023-Q4,2023,EU (less PM),106124,101.93008658736295
+United Kingdom,Exports of goods and services,CVM,2023-Q4,2023,EU,80426,92.20310225044997
+United Kingdom,Imports of goods and services,CVM,2023-Q4,2023,EU,106150,101.8628474096465
+United Kingdom (less PM),Exports of goods and services,CVM,2024-Q1,2024,EU (less PM),79708,91.40642246285195
+United Kingdom (less PM),Imports of goods and services,CVM,2024-Q1,2024,EU (less PM),104186,100.06867439213558
+United Kingdom,Exports of goods and services,CVM,2024-Q1,2024,EU,79752,91.43040572299861
+United Kingdom,Imports of goods and services,CVM,2024-Q1,2024,EU,104256,100.04534168196048
+United Kingdom (less PM),Exports of goods and services,CVM,2024-Q2,2024,EU (less PM),NA,NA
+United Kingdom (less PM),Imports of goods and services,CVM,2024-Q2,2024,EU (less PM),NA,NA
+United Kingdom,Exports of goods and services,CVM,2024-Q2,2024,EU,NA,NA
+United Kingdom,Imports of goods and services,CVM,2024-Q2,2024,EU,NA,NA
+United Kingdom (less PM),Exports of goods and services,CVM,2024-Q3,2024,EU (less PM),NA,NA
+United Kingdom (less PM),Imports of goods and services,CVM,2024-Q3,2024,EU (less PM),NA,NA
+United Kingdom,Exports of goods and services,CVM,2024-Q3,2024,EU,NA,NA
+United Kingdom,Imports of goods and services,CVM,2024-Q3,2024,EU,NA,NA
+United Kingdom (less PM),Exports of goods and services,CVM,2018-Q1,2018,Non-EU (less PM),103396,99.52545505298926
+United Kingdom (less PM),Imports of goods and services,CVM,2018-Q1,2018,Non-EU (less PM),98418,97.3069973576688
+United Kingdom,Exports of goods and services,CVM,2018-Q1,2018,Non-EU,103170,99.23651272679179
+United Kingdom,Imports of goods and services,CVM,2018-Q1,2018,Non-EU,100214,96.94337295493295
+United Kingdom (less PM),Exports of goods and services,CVM,2018-Q2,2018,Non-EU (less PM),102677,98.83337023168959
+United Kingdom (less PM),Imports of goods and services,CVM,2018-Q2,2018,Non-EU (less PM),97438,96.33806019769284
+United Kingdom,Exports of goods and services,CVM,2018-Q2,2018,Non-EU,102926,99.00181553666543
+United Kingdom,Imports of goods and services,CVM,2018-Q2,2018,Non-EU,100473,97.19392011995308
+United Kingdom (less PM),Exports of goods and services,CVM,2018-Q3,2018,Non-EU (less PM),105498,101.54876839703914
+United Kingdom (less PM),Imports of goods and services,CVM,2018-Q3,2018,Non-EU (less PM),102995,101.8323293793117
+United Kingdom,Exports of goods and services,CVM,2018-Q3,2018,Non-EU,105394,101.37571990236982
+United Kingdom,Imports of goods and services,CVM,2018-Q3,2018,Non-EU,105253,101.81791799175322
+United Kingdom (less PM),Exports of goods and services,CVM,2018-Q4,2018,Non-EU (less PM),103985,100.09240631828203
+United Kingdom (less PM),Imports of goods and services,CVM,2018-Q4,2018,Non-EU (less PM),105716,104.52261306532664
+United Kingdom,Exports of goods and services,CVM,2018-Q4,2018,Non-EU,104365,100.38595183417296
+United Kingdom,Imports of goods and services,CVM,2018-Q4,2018,Non-EU,107555,104.04478893336073
+United Kingdom (less PM),Exports of goods and services,CVM,2019-Q1,2019,Non-EU (less PM),102280,98.45123160296086
+United Kingdom (less PM),Imports of goods and services,CVM,2019-Q1,2019,Non-EU (less PM),105875,104.6798181759758
+United Kingdom,Exports of goods and services,CVM,2019-Q1,2019,Non-EU,101908,98.02262807949886
+United Kingdom,Imports of goods and services,CVM,2019-Q1,2019,Non-EU,120126,116.2055163907665
+United Kingdom (less PM),Exports of goods and services,CVM,2019-Q2,2019,Non-EU (less PM),101469,97.67059072664094
+United Kingdom (less PM),Imports of goods and services,CVM,2019-Q2,2019,Non-EU (less PM),102871,101.7097291672331
+United Kingdom,Exports of goods and services,CVM,2019-Q2,2019,Non-EU,102623,98.71036779646752
+United Kingdom,Imports of goods and services,CVM,2019-Q2,2019,Non-EU,106838,103.35118925259073
+United Kingdom (less PM),Exports of goods and services,CVM,2019-Q3,2019,Non-EU (less PM),109461,105.36341672361849
+United Kingdom (less PM),Imports of goods and services,CVM,2019-Q3,2019,Non-EU (less PM),103271,102.10521372232535
+United Kingdom,Exports of goods and services,CVM,2019-Q3,2019,Non-EU,110303,106.09755804306789
+United Kingdom,Imports of goods and services,CVM,2019-Q3,2019,Non-EU,106620,103.14030399400234
+United Kingdom (less PM),Exports of goods and services,CVM,2019-Q4,2019,Non-EU (less PM),107869,103.83101194544177
+United Kingdom (less PM),Imports of goods and services,CVM,2019-Q4,2019,Non-EU (less PM),101068,99.92708253515487
+United Kingdom,Exports of goods and services,CVM,2019-Q4,2019,Non-EU,120923,116.31265705594498
+United Kingdom,Imports of goods and services,CVM,2019-Q4,2019,Non-EU,101809,98.48631785148551
+United Kingdom (less PM),Exports of goods and services,CVM,2020-Q1,2020,Non-EU (less PM),105030,101.09828759541432
+United Kingdom (less PM),Imports of goods and services,CVM,2020-Q1,2020,Non-EU (less PM),99622,98.49740586849644
+United Kingdom,Exports of goods and services,CVM,2020-Q1,2020,Non-EU,106469,102.40973416214787
+United Kingdom,Imports of goods and services,CVM,2020-Q1,2020,Non-EU,102165,98.83069928294175
+United Kingdom (less PM),Exports of goods and services,CVM,2020-Q2,2020,Non-EU (less PM),86053,82.83167611585442
+United Kingdom (less PM),Imports of goods and services,CVM,2020-Q2,2020,Non-EU (less PM),80557,79.64762326141282
+United Kingdom,Exports of goods and services,CVM,2020-Q2,2020,Non-EU,94543,90.9384280578567
+United Kingdom,Imports of goods and services,CVM,2020-Q2,2020,Non-EU,80868,78.22875730057194
+United Kingdom (less PM),Exports of goods and services,CVM,2020-Q3,2020,Non-EU (less PM),91935,88.49348824225856
+United Kingdom (less PM),Imports of goods and services,CVM,2020-Q3,2020,Non-EU (less PM),92049,91.00989452921272
+United Kingdom,Exports of goods and services,CVM,2020-Q3,2020,Non-EU,91672,88.17688857895179
+United Kingdom,Imports of goods and services,CVM,2020-Q3,2020,Non-EU,92975,89.9406280607988
+United Kingdom (less PM),Exports of goods and services,CVM,2020-Q4,2020,Non-EU (less PM),95246,91.68054365717256
+United Kingdom (less PM),Imports of goods and services,CVM,2020-Q4,2020,Non-EU (less PM),98333,97.22295688971172
+United Kingdom,Exports of goods and services,CVM,2020-Q4,2020,Non-EU,94936,91.31644443375696
+United Kingdom,Imports of goods and services,CVM,2020-Q4,2020,Non-EU,105805,102.35190268322472
+United Kingdom (less PM),Exports of goods and services,CVM,2021-Q1,2021,Non-EU (less PM),99569,95.84171567730944
+United Kingdom (less PM),Imports of goods and services,CVM,2021-Q1,2021,Non-EU (less PM),96260,95.17335818294622
+United Kingdom,Exports of goods and services,CVM,2021-Q1,2021,Non-EU,99230,95.446730230489
+United Kingdom,Imports of goods and services,CVM,2021-Q1,2021,Non-EU,105343,101.90498071318879
+United Kingdom (less PM),Exports of goods and services,CVM,2021-Q2,2021,Non-EU (less PM),103984,100.09144375246657
+United Kingdom (less PM),Imports of goods and services,CVM,2021-Q2,2021,Non-EU (less PM),105517,104.32585949916825
+United Kingdom,Exports of goods and services,CVM,2021-Q2,2021,Non-EU,105216,101.20450637842518
+United Kingdom,Imports of goods and services,CVM,2021-Q2,2021,Non-EU,105668,102.21937387392835
+United Kingdom (less PM),Exports of goods and services,CVM,2021-Q3,2021,Non-EU (less PM),98761,95.06396249843583
+United Kingdom (less PM),Imports of goods and services,CVM,2021-Q3,2021,Non-EU (less PM),106014,104.81724905887036
+United Kingdom,Exports of goods and services,CVM,2021-Q3,2021,Non-EU,98426,94.67338375154802
+United Kingdom,Imports of goods and services,CVM,2021-Q3,2021,Non-EU,108907,105.35266448203726
+United Kingdom (less PM),Exports of goods and services,CVM,2021-Q4,2021,Non-EU (less PM),105813,101.851976628902
+United Kingdom (less PM),Imports of goods and services,CVM,2021-Q4,2021,Non-EU (less PM),108719,107.49171336268158
+United Kingdom,Exports of goods and services,CVM,2021-Q4,2021,Non-EU,109757,105.57237498647365
+United Kingdom,Imports of goods and services,CVM,2021-Q4,2021,Non-EU,109043,105.48422592776213
+United Kingdom (less PM),Exports of goods and services,CVM,2022-Q1,2022,Non-EU (less PM),101305,97.51272993290915
+United Kingdom (less PM),Imports of goods and services,CVM,2022-Q1,2022,Non-EU (less PM),114214,112.92468243826114
+United Kingdom,Exports of goods and services,CVM,2022-Q1,2022,Non-EU,100990,97.1396279953349
+United Kingdom,Imports of goods and services,CVM,2022-Q1,2022,Non-EU,121530,117.56369484516136
+United Kingdom (less PM),Exports of goods and services,CVM,2022-Q2,2022,Non-EU (less PM),106078,102.10705656999298
+United Kingdom (less PM),Imports of goods and services,CVM,2022-Q2,2022,Non-EU (less PM),115830,114.52244004083379
+United Kingdom,Exports of goods and services,CVM,2022-Q2,2022,Non-EU,105765,101.7325750562095
+United Kingdom,Imports of goods and services,CVM,2022-Q2,2022,Non-EU,117135,113.31213194839115
+United Kingdom (less PM),Exports of goods and services,CVM,2022-Q3,2022,Non-EU (less PM),109142,105.05635822849386
+United Kingdom (less PM),Imports of goods and services,CVM,2022-Q3,2022,Non-EU (less PM),111779,110.51717020913718
+United Kingdom,Exports of goods and services,CVM,2022-Q3,2022,Non-EU,122854,118.17003522862537
+United Kingdom,Imports of goods and services,CVM,2022-Q3,2022,Non-EU,111572,107.93068840010159
+United Kingdom (less PM),Exports of goods and services,CVM,2022-Q4,2022,Non-EU (less PM),108857,104.78202697109415
+United Kingdom (less PM),Imports of goods and services,CVM,2022-Q4,2022,Non-EU (less PM),111677,110.41632164758866
+United Kingdom,Exports of goods and services,CVM,2022-Q4,2022,Non-EU,127207,122.35707157542895
+United Kingdom,Imports of goods and services,CVM,2022-Q4,2022,Non-EU,111534,107.89392858438434
+United Kingdom (less PM),Exports of goods and services,CVM,2023-Q1,2023,Non-EU (less PM),106523,102.53539835786272
+United Kingdom (less PM),Imports of goods and services,CVM,2023-Q1,2023,Non-EU (less PM),109729,108.49031186428948
+United Kingdom,Exports of goods and services,CVM,2023-Q1,2023,Non-EU,112540,108.24926957713626
+United Kingdom,Imports of goods and services,CVM,2023-Q1,2023,Non-EU,109751,106.16911933638859
+United Kingdom (less PM),Exports of goods and services,CVM,2023-Q2,2023,Non-EU (less PM),107902,103.86277661735122
+United Kingdom (less PM),Imports of goods and services,CVM,2023-Q2,2023,Non-EU (less PM),108692,107.46501815521286
+United Kingdom,Exports of goods and services,CVM,2023-Q2,2023,Non-EU,111852,107.58750045087831
+United Kingdom,Imports of goods and services,CVM,2023-Q2,2023,Non-EU,108698,105.15048549559245
+United Kingdom (less PM),Exports of goods and services,CVM,2023-Q3,2023,Non-EU (less PM),109059,104.97646526581255
+United Kingdom (less PM),Imports of goods and services,CVM,2023-Q3,2023,Non-EU (less PM),104021,102.84674726312329
+United Kingdom,Exports of goods and services,CVM,2023-Q3,2023,Non-EU,111037,106.80357336090705
+United Kingdom,Imports of goods and services,CVM,2023-Q3,2023,Non-EU,104023,100.62806079880046
+United Kingdom (less PM),Exports of goods and services,CVM,2023-Q4,2023,Non-EU (less PM),105823,101.86160228705639
+United Kingdom (less PM),Imports of goods and services,CVM,2023-Q4,2023,Non-EU (less PM),104933,103.74845204873357
+United Kingdom,Exports of goods and services,CVM,2023-Q4,2023,Non-EU,110534,106.31975087470393
+United Kingdom,Imports of goods and services,CVM,2023-Q4,2023,Non-EU,104934,101.50932901244272
+United Kingdom (less PM),Exports of goods and services,CVM,2024-Q1,2024,Non-EU (less PM),106117,102.14459663679504
+United Kingdom (less PM),Imports of goods and services,CVM,2024-Q1,2024,Non-EU (less PM),102176,101.02257475276035
+United Kingdom,Exports of goods and services,CVM,2024-Q1,2024,Non-EU,109143,104.98178451623762
+United Kingdom,Imports of goods and services,CVM,2024-Q1,2024,Non-EU,102459,99.1151041729646
+United Kingdom (less PM),Exports of goods and services,CVM,2024-Q2,2024,Non-EU (less PM),NA,NA
+United Kingdom (less PM),Imports of goods and services,CVM,2024-Q2,2024,Non-EU (less PM),NA,NA
+United Kingdom,Exports of goods and services,CVM,2024-Q2,2024,Non-EU,NA,NA
+United Kingdom,Imports of goods and services,CVM,2024-Q2,2024,Non-EU,NA,NA
+United Kingdom (less PM),Exports of goods and services,CVM,2024-Q3,2024,Non-EU (less PM),NA,NA
+United Kingdom (less PM),Imports of goods and services,CVM,2024-Q3,2024,Non-EU (less PM),NA,NA
+United Kingdom,Exports of goods and services,CVM,2024-Q3,2024,Non-EU,NA,NA
+United Kingdom,Imports of goods and services,CVM,2024-Q3,2024,Non-EU,NA,NA

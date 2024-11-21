@@ -115,4 +115,3 @@ qna_clean <- qna_full %>%
       TRUE ~ "WW"
     )
   )
-

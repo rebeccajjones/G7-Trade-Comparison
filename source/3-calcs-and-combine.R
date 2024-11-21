@@ -97,7 +97,7 @@ combined_indexed <- combined_final %>%
   select(-index_avg)
 
 
-# Split data for exporting into spreadsheet
+# Split data for exporting
 int_comps_data <- combined_indexed %>%
   filter(!(area %in% c("EU", "Non-EU")))
 
@@ -112,9 +112,6 @@ eu_neu_data <- combined_indexed %>%
 
 # Export Data ------
 
-# Write filepath for this machine
-filepath <- paste0("C:/Users/", Sys.getenv("USERNAME"), "/Department for International Trade/Europe Trade Analysis Unit - Documents/Data Analysis and Insights/Main R Folder/automated_narrative_charts/")
-
-# Write data to sharepoint
-write_csv(int_comps_data, paste0(filepath,"international_comparisons_data.csv"))  
-write_csv(eu_neu_data, paste0(filepath,"eu_non-eu_data.csv"))  
+# Write data to output
+write_csv(int_comps_data, "output/international_comparisons_data.csv")
+write_csv(eu_neu_data, "output/eu_non-eu_data.csv")
