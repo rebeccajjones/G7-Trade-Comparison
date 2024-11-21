@@ -14,4 +14,4 @@ The R code pulls the data from several sources including the OECD API and severa
 
 The diagram below shows the data flow:
 
-![The diagram shows the diffferent published tables and how they are exported](data-flow.png)
+![The diagram shows the diffferent published tables and how they are exported](data/md/data-flow.png)
